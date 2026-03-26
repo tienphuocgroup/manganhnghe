@@ -1,0 +1,735 @@
+code,name,parent
+01110,Trồng lúa,0111
+01120,Trồng ngô và cây lương thực có hạt khác,0112
+01130,Trồng cây lấy củ có chất bột,0113
+01140,Trồng cây mía,0114
+01150,"Trồng cây thuốc lá, thuốc lào",0115
+01160,Trồng cây lấy sợi,0116
+01170,Trồng cây có hạt chứa dầu,0117
+01181,Trồng rau các loại,0118
+01182,Trồng đậu các loại,0118
+01183,Trồng hoa hàng năm,0118
+01191,Trồng cây gia vị hàng năm,0119
+01192,"Trồng cây dược liệu, hương liệu hàng năm",0119
+01199,Trồng cây hàng năm khác còn lại,0119
+01211,Trồng nho,0121
+01212,Trồng cây ăn quả vùng nhiệt đới và cận nhiệt đới,0121
+01213,"Trồng cam, quýt và các loại quả có múi khác",0121
+01214,"Trồng táo, mận và các loại quả có hạt như táo",0121
+01215,"Trồng nhãn, vải, chôm chôm",0121
+01219,Trồng cây ăn quả khác,0121
+01220,Trồng cây lấy quả chứa dầu,0122
+01230,Trồng cây điều,0123
+01240,Trồng cây hồ tiêu,0124
+01250,Trồng cây cao su,0125
+01260,Trồng cây cà phê,0126
+01270,Trồng cây chè,0127
+01281,Trồng cây gia vị lâu năm,0128
+01282,"Trồng cây dược liệu, hương liệu lâu năm",0128
+01291,Trồng cây cảnh lâu năm,0129
+01299,Trồng cây lâu năm khác còn lại,0129
+01310,Nhân và chăm sóc cây giống hàng năm,0131
+01320,Nhân và chăm sóc cây giống lâu năm,0132
+01411,"Sản xuất giống trâu, bò",0141
+01412,"Chăn nuôi trâu, bò",0141
+01421,"Sản xuất giống ngựa, lừa",0142
+01422,"Chăn nuôi ngựa, lừa, la",0142
+01441,"Sản xuất giống dê, cừu, hươu, nai",0144
+01442,"Chăn nuôi dê, cừu, hươu, nai",0144
+01451,Sản xuất giống lợn,0145
+01452,Chăn nuôi lợn,0145
+01461,Hoạt động ấp trứng và sản xuất giống gia cầm,0146
+01462,Chăn nuôi gà,0146
+01463,"Chăn nuôi vịt, ngan, ngỗng",0146
+01469,Chăn nuôi gia cầm khác,0146
+01490,Chăn nuôi khác,0149
+01500,"Trồng trọt, chăn nuôi hỗn hợp",0150
+01610,Hoạt động dịch vụ trồng trọt,0161
+01620,Hoạt động dịch vụ chăn nuôi,0162
+01630,Hoạt động dịch vụ sau thu hoạch,0163
+01640,Xử lý hạt giống để nhân giống,0164
+01700,"Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan",0170
+02101,Trồng rừng và chăm sóc rừng cây thân gỗ,0210
+02102,Trồng rừng và chăm sóc rừng họ tre,0210
+02103,Trồng rừng và chăm sóc rừng khác,0210
+02104,Ươm giống cây lâm nghiệp,0210
+02200,Khai thác gỗ,0220
+02310,Khai thác lâm sản khác trừ gỗ,0231
+02320,Thu nhặt lâm sản khác trừ gỗ,0232
+02400,Hoạt động dịch vụ lâm nghiệp,0240
+03110,Khai thác thủy sản biển,0311
+03120,Khai thác thủy sản nội địa,0312
+03211,Nuôi cá,0321
+03212,Nuôi tôm,0321
+03213,Nuôi thủy sản khác,0321
+03214,Sản xuất giống thủy sản biển,0321
+03221,Nuôi cá,0322
+03222,Nuôi tôm,0322
+03223,Nuôi thủy sản khác,0322
+03224,Sản xuất giống thủy sản nội địa,0322
+05100,Khai thác và thu gom than cứng,0510
+05200,Khai thác và thu gom than non,0520
+06100,Khai thác dầu thô,0610
+06200,Khai thác khí đốt tự nhiên,0620
+07100,Khai thác quặng sắt,0710
+07210,Khai thác quặng uranium và quặng thorium,0721
+07221,Khai thác quặng bôxít,0722
+07229,Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu,0722
+07300,Khai thác quặng kim loại quý hiếm,0730
+08101,Khai thác đá,0810
+08102,"Khai thác cát, sỏi",0810
+08103,Khai thác đất sét,0810
+08910,Khai thác khoáng hoá chất và khoáng phân bón,0891
+08920,Khai thác và thu gom than bùn,0892
+08930,Khai thác muối,0893
+08990,Khai khoáng khác chưa được phân vào đâu,0899
+09100,Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên,0910
+09900,Hoạt động dịch vụ hỗ trợ khai khoáng khác,0990
+10101,"Giết mổ gia súc, gia cầm",1010
+10102,Chế biến và bảo quản thịt,1010
+10109,Chế biến và bảo quản các sản phẩm từ thịt,1010
+10201,Chế biến và bảo quản thủy sản đông lạnh,1020
+10202,Chế biến và bảo quản thủy sản khô,1020
+10203,Chế biến và bảo quản nước mắm,1020
+10209,Chế biến và bảo quản các sản phẩm khác từ thủy sản,1020
+10301,Sản xuất nước ép từ rau quả,1030
+10309,Chế biến và bảo quản rau quả khác,1030
+10401,"Sản xuất dầu, mỡ động vật",1040
+10402,"Sản xuất dầu, bơ thực vật",1040
+10500,Chế biến sữa và các sản phẩm từ sữa,1050
+10611,Xay xát,1061
+10612,Sản xuất bột thô,1061
+10620,Sản xuất tinh bột và các sản phẩm từ tinh bột,1062
+10710,Sản xuất các loại bánh từ bột,1071
+10720,Sản xuất đường,1072
+10730,"Sản xuất ca cao, sôcôla và bánh kẹo",1073
+10740,"Sản xuất mì ống, mỳ sợi và sản phẩm tương tự",1074
+10751,"Sản xuất món ăn, thức ăn chế biến sẵn từ thịt",1075
+10752,"Sản xuất món ăn, thức ăn chế biến sẵn từ thủy sản",1075
+10759,"Sản xuất món ăn, thức ăn chế biến sẵn khác",1075
+10760,Sản xuất chè,1076
+10770,Sản xuất cà phê,1077
+10790,Sản xuất thực phẩm khác chưa được phân vào đâu,1079
+10800,"Sản xuất thức ăn gia súc, gia cầm và thuỷ sản",1080
+11010,"Chưng, tinh cất và pha chế các loại rượu mạnh",1101
+11020,Sản xuất rượu vang,1102
+11030,Sản xuất bia và mạch nha ủ men bia,1103
+11041,"Sản xuất nước khoáng, nước tinh khiết đóng chai",1104
+11042,Sản xuất đồ uống không cồn,1104
+12001,Sản xuất thuốc lá,1200
+12009,Sản xuất thuốc hút khác,1200
+13110,Sản xuất sợi,1311
+13120,Sản xuất vải dệt thoi,1312
+13130,Hoàn thiện sản phẩm dệt,1313
+13910,"Sản xuất vải dệt kim, vải đan móc và vải không dệt khác",1391
+13920,Sản xuất hàng dệt sẵn (trừ trang phục),1392
+13930,"Sản xuất thảm, chăn, đệm",1393
+13940,Sản xuất các loại dây bện và lưới,1394
+13990,Sản xuất các loại hàng dệt khác chưa được phân vào đâu,1399
+14100,May trang phục (trừ trang phục từ da lông thú),1410
+14200,Sản xuất sản phẩm từ da lông thú,1420
+14300,"Sản xuất trang phục dệt kim, đan móc",1430
+15110,"Thuộc, sơ chế da; sơ chế và nhuộm da lông thú",1511
+15120,"Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm",1512
+15200,"Sản xuất giày, dép",1520
+16101,"Cưa, xẻ và bào gỗ",1610
+16102,Bảo quản gỗ,1610
+16210,"Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác",1621
+16220,Sản xuất đồ gỗ xây dựng,1622
+16230,Sản xuất bao bì bằng gỗ,1623
+16291,Sản xuất sản phẩm khác từ gỗ,1629
+16292,"Sản xuất sản phẩm từ lâm sản (trừ gỗ), cói và vật liệu tết bện",1629
+17010,"Sản xuất bột giấy, giấy và bìa",1701
+17021,"Sản xuất bao bì bằng giấy, bìa",1702
+17022,Sản xuất giấy nhăn và bìa nhăn,1702
+17090,Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu,1709
+18110,In ấn,1811
+18120,Dịch vụ liên quan đến in,1812
+18200,Sao chép bản ghi các loại,1820
+19100,Sản xuất than cốc,1910
+19200,Sản xuất sản phẩm dầu mỏ tinh chế,1920
+20111,Sản xuất khí công nghiệp,2011
+20112,Sản xuất chất nhuộm và chất màu,2011
+20113,Sản xuất hóa chất vô cơ cơ bản khác,2011
+20114,Sản xuất hoá chất hữu cơ cơ bản khác,2011
+20119,Sản xuất hóa chất cơ bản khác,2011
+20120,Sản xuất phân bón và hợp chất ni tơ,2012
+20131,Sản xuất plastic nguyên sinh,2013
+20132,Sản xuất cao su tổng hợp dạng nguyên sinh,2013
+20210,Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp,2021
+20221,"Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít",2022
+20222,Sản xuất mực in,2022
+20231,Sản xuất mỹ phẩm,2023
+20232,"Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh",2023
+20290,Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu,2029
+20300,Sản xuất sợi nhân tạo,2030
+21001,Sản xuất thuốc các loại,2100
+21002,Sản xuất hoá dược và dược liệu,2100
+22110,"Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su",2211
+22190,Sản xuất sản phẩm khác từ cao su,2219
+22201,Sản xuất bao bì từ plastic,2220
+22209,Sản xuất sản phẩm khác từ plastic,2220
+23101,Sản xuất thủy tinh phẳng và sản phẩm từ thủy tinh phẳng,2310
+23102,Sản xuất thủy tinh rỗng và sản phẩm từ thủy tinh rỗng,2310
+23103,Sản xuất sợi thủy tinh và sản phẩm từ sợi thủy tinh,2310
+23109,Sản xuất thủy tinh khác và các sản phẩm từ thủy tinh,2310
+23910,Sản xuất sản phẩm chịu lửa,2391
+23920,Sản xuất vật liệu xây dựng từ đất sét,2392
+23930,Sản xuất sản phẩm gốm sứ khác,2393
+23941,Sản xuất xi măng,2394
+23942,Sản xuất vôi,2394
+23943,Sản xuất thạch cao,2394
+23950,"Sản xuất bê tông và các sản phẩm từ bê tông, xi măng và thạch cao",2395
+23960,Cắt tạo dáng và hoàn thiện đá,2396
+23990,Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu,2399
+24100,"Sản xuất sắt, thép, gang",2410
+24201,Sản xuất kim loại quý,2420
+24202,Sản xuất kim loại màu,2420
+24310,"Đúc sắt, thép",2431
+24320,Đúc kim loại màu,2432
+25110,Sản xuất các cấu kiện kim loại,2511
+25120,"Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại",2512
+25130,Sản xuất nồi hơi (trừ nồi hơi trung tâm),2513
+25200,Sản xuất vũ khí và đạn dược,2520
+25910,"Rèn, dập, ép và cán kim loại; luyện bột kim loại",2591
+25920,Gia công cơ khí; xử lý và tráng phủ kim loại,2592
+25930,"Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng",2593
+25991,"Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn",2599
+25999,Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu,2599
+26100,Sản xuất linh kiện điện tử,2610
+26200,Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính,2620
+26300,Sản xuất thiết bị truyền thông,2630
+26400,Sản xuất sản phẩm điện tử dân dụng,2640
+26510,"Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển",2651
+26520,Sản xuất đồng hồ,2652
+26600,"Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp",2660
+26700,Sản xuất thiết bị và dụng cụ quang học,2670
+26800,"Sản xuất băng, đĩa từ tính và quang học",2680
+27101,"Sản xuất mô tơ, máy phát",2710
+27102,"Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện",2710
+27200,Sản xuất pin và ắc quy,2720
+27310,"Sản xuất dây cáp, sợi cáp quang học",2731
+27320,"Sản xuất dây, cáp điện và điện tử khác",2732
+27330,Sản xuất thiết bị dây dẫn điện các loại,2733
+27400,Sản xuất thiết bị điện chiếu sáng,2740
+27500,Sản xuất đồ điện dân dụng,2750
+27900,Sản xuất thiết bị điện khác,2790
+28110,"Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)",2811
+28120,Sản xuất thiết bị sử dụng năng lượng chiết lưu,2812
+28130,"Sản xuất máy bơm, máy nén, vòi và van khác",2813
+28140,"Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động",2814
+28150,"Sản xuất lò nướng, lò luyện và lò nung",2815
+28160,"Sản xuất các thiết bị nâng, hạ và bốc xếp",2816
+28170,Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính),2817
+28180,Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén,2818
+28190,Sản xuất máy thông dụng khác,2819
+28210,Sản xuất máy nông nghiệp và lâm nghiệp,2821
+28220,Sản xuất máy công cụ và máy tạo hình kim loại,2822
+28230,Sản xuất máy luyện kim,2823
+28240,Sản xuất máy khai thác mỏ và xây dựng,2824
+28250,"Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá",2825
+28260,"Sản xuất máy cho ngành dệt, may và da",2826
+28291,Sản xuất máy sản xuất vật liệu xây dựng,2829
+28299,Sản xuất máy chuyên dụng khác chưa được phân vào đâu,2829
+29100,Sản xuất ô tô và xe có động cơ khác,2910
+29200,"Sản xuất thân xe ô tô và xe có động cơ khác, rơ moóc và bán rơ moóc",2920
+29300,Sản xuất phụ tùng và bộ phận phụ trợ cho xe ô tô và xe có động cơ khác,2930
+30110,Đóng tàu và cấu kiện nổi,3011
+30120,"Đóng thuyền, xuồng thể thao và giải trí",3012
+30200,"Sản xuất đầu máy xe lửa, xe điện và toa xe",3020
+30300,"Sản xuất máy bay, tàu vũ trụ và máy móc liên quan",3030
+30400,Sản xuất xe cơ giới chiến đấu dùng trong quân đội,3040
+30910,"Sản xuất mô tô, xe máy",3091
+30920,Sản xuất xe đạp và xe cho người khuyết tật,3092
+30990,Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu,3099
+31001,"Sản xuất giường, tủ, bàn, ghế bằng gỗ",3100
+31002,"Sản xuất giường, tủ, bàn, ghế bằng kim loại",3100
+31009,"Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác",3100
+32110,Sản xuất đồ kim hoàn và chi tiết liên quan,3211
+32120,Sản xuất đồ giả kim hoàn và chi tiết liên quan,3212
+32200,Sản xuất nhạc cụ,3220
+32300,"Sản xuất dụng cụ thể dục, thể thao",3230
+32400,"Sản xuất đồ chơi, trò chơi",3240
+32501,"Sản xuất thiết bị, dụng cụ y tế, nha khoa",3250
+32502,"Sản xuất dụng cụ chỉnh hình, phục hồi chức năng",3250
+32900,Sản xuất khác chưa được phân vào đâu,3290
+33110,Sửa chữa các sản phẩm kim loại đúc sẵn,3311
+33120,"Sửa chữa máy móc, thiết bị",3312
+33130,Sửa chữa thiết bị điện tử và quang học,3313
+33140,Sửa chữa thiết bị điện,3314
+33150,"Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)",3315
+33190,Sửa chữa thiết bị khác,3319
+33200,Lắp đặt máy móc và thiết bị công nghiệp,3320
+35111,Thủy điện,3511
+35112,Nhiệt điện than,3511
+35113,Nhiệt điện khí,3511
+35114,Điện hạt nhân,3511
+35115,Điện gió,3511
+35116,Điện mặt trời,3511
+35119,Điện khác,3511
+35121,Truyền tải điện,3512
+35122,Phân phối điện,3512
+35201,Sản xuất khí đốt,3520
+35202,Phân phối nhiên liệu khí bằng đường ống,3520
+35301,"Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí",3530
+35302,Sản xuất nước đá,3530
+36000,"Khai thác, xử lý và cung cấp nước",3600
+37001,Thoát nước,3700
+37002,Xử lý nước thải,3700
+38110,Thu gom rác thải không độc hại,3811
+38121,Thu gom rác thải y tế,3812
+38129,Thu gom rác thải độc hại khác,3812
+38210,Xử lý và tiêu hủy rác thải không độc hại,3821
+38221,Xử lý và tiêu hủy rác thải y tế,3822
+38229,Xử lý và tiêu hủy rác thải độc hại khác,3822
+38301,Tái chế phế liệu kim loại,3830
+38302,Tái chế phế liệu phi kim loại,3830
+39000,Xử lý ô nhiễm và hoạt động quản lý chất thải khác,3900
+41010,Xây dựng nhà để ở,4101
+41020,Xây dựng nhà không để ở,4102
+42110,Xây dựng công trình đường sắt,4211
+42120,Xây dựng công trình đường bộ,4212
+42210,Xây dựng công trình điện,4221
+42220,"Xây dựng công trình cấp, thoát nước",4222
+42230,"Xây dựng công trình viễn thông, thông tin liên lạc",4223
+42290,Xây dựng công trình công ích khác,4229
+42910,Xây dựng công trình thủy,4291
+42920,Xây dựng công trình khai khoáng,4292
+42930,"Xây dựng công trình chế biến, chế tạo",4293
+42990,Xây dựng công trình kỹ thuật dân dụng khác,4299
+43110,Phá dỡ,4311
+43120,Chuẩn bị mặt bằng,4312
+43210,Lắp đặt hệ thống điện,4321
+43221,"Lắp đặt hệ thống cấp, thoát nước",4322
+43222,Lắp đặt hệ thống sưởi và điều hoà không khí,4322
+43290,Lắp đặt hệ thống xây dựng khác,4329
+43300,Hoàn thiện công trình xây dựng,4330
+43900,Hoạt động xây dựng chuyên dụng khác,4390
+45111,Bán buôn ô tô con (loại 9 chỗ ngồi trở xuống),4511
+45119,Bán buôn xe có động cơ khác,4511
+45120,Bán lẻ ô tô con (loại 9 chỗ ngồi trở xuống),4512
+45131,Đại lý ô tô con (loại 9 chỗ ngồi trở xuống),4513
+45139,Đại lý xe có động cơ khác,4513
+45200,"Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác",4520
+45301,Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác,4530
+45302,Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 9 chỗ ngồi trở xuống),4530
+45303,Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác,4530
+45411,"Bán buôn mô tô, xe máy",4541
+45412,"Bán lẻ mô tô, xe máy",4541
+45413,"Đại lý mô tô, xe máy",4541
+45420,"Bảo dưỡng và sửa chữa mô tô, xe máy",4542
+45431,"Bán buôn phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",4543
+45432,"Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",4543
+45433,"Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",4543
+46101,Đại lý bán hàng hóa,4610
+46102,Môi giới mua bán hàng hóa,4610
+46103,Đấu giá hàng hóa,4610
+46201,"Bán buôn thóc, ngô và các loại hạt ngũ cốc khác",4620
+46202,Bán buôn hoa và cây,4620
+46203,Bán buôn động vật sống,4620
+46204,"Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thủy sản",4620
+46209,"Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa)",4620
+46310,"Bán buôn gạo, lúa mỳ, hạt ngũ cốc khác, bột mỳ",4631
+46321,Bán buôn thịt và các sản phẩm từ thịt,4632
+46322,Bán buôn thủy sản,4632
+46323,"Bán buôn rau, quả",4632
+46324,Bán buôn cà phê,4632
+46325,Bán buôn chè,4632
+46326,"Bán buôn đường, sữa và các sản phẩm sữa, bánh kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột",4632
+46329,Bán buôn thực phẩm khác,4632
+46331,Bán buôn đồ uống có cồn,4633
+46332,Bán buôn đồ uống không có cồn,4633
+46340,"Bán buôn sản phẩm thuốc lá, thuốc lào",4634
+46411,Bán buôn vải,4641
+46412,"Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác",4641
+46413,Bán buôn hàng may mặc,4641
+46414,Bán buôn giày dép,4641
+46491,"Bán buôn vali, cặp, túi, ví, hàng da và giả da khác",4649
+46492,Bán buôn dược phẩm và dụng cụ y tế,4649
+46493,"Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh",4649
+46494,"Bán buôn hàng gốm, sứ, thủy tinh",4649
+46495,"Bán buôn đồ điện gia dụng, đèn và bộ đèn điện",4649
+46496,"Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự",4649
+46497,"Bán buôn sách, báo, tạp chí, văn phòng phẩm",4649
+46498,"Bán buôn dụng cụ thể dục, thể thao",4649
+46499,Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu,4649
+46510,"Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",4651
+46520,"Bán buôn thiết bị và linh kiện điện tử, viễn thông",4652
+46530,"Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp",4653
+46591,"Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng",4659
+46592,"Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị khác dùng trong mạch điện)",4659
+46593,"Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày",4659
+46594,"Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi)",4659
+46595,"Bán buôn máy móc, thiết bị y tế",4659
+46599,"Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu",4659
+46611,Bán buôn than đá và nhiên liệu rắn khác,4661
+46612,Bán buôn dầu thô,4661
+46613,Bán buôn xăng dầu và các sản phẩm liên quan,4661
+46614,Bán buôn khí đốt và các sản phẩm liên quan,4661
+46621,Bán buôn quặng kim loại,4662
+46622,"Bán buôn sắt, thép",4662
+46623,Bán buôn kim loại khác,4662
+46624,"Bán buôn vàng, bạc và kim loại quý khác",4662
+46631,"Bán buôn tre, nứa, gỗ cây và gỗ chế biến",4663
+46632,Bán buôn xi măng,4663
+46633,"Bán buôn gạch xây, ngói, đá, cát, sỏi",4663
+46634,Bán buôn kính xây dựng,4663
+46635,"Bán buôn sơn, vécni",4663
+46636,Bán buôn gạch ốp lát và thiết bị vệ sinh,4663
+46637,Bán buôn đồ ngũ kim,4663
+46639,"Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",4663
+46691,"Bán buôn phân bón, thuốc trừ sâu và hóa chất khác sử dụng trong nông nghiệp",4669
+46692,Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp),4669
+46693,Bán buôn chất dẻo dạng nguyên sinh,4669
+46694,Bán buôn cao su,4669
+46695,"Bán buôn tơ, xơ, sợi dệt",4669
+46696,Bán buôn phụ liệu may mặc và giày dép,4669
+46697,"Bán buôn phế liệu, phế thải kim loại, phi kim loại",4669
+46699,Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu,4669
+46900,Bán buôn tổng hợp,4690
+47111,Bán lẻ trong siêu thị (Supermarket),4711
+47112,Bán lẻ trong cửa hàng tiện lợi (Minimarket),4711
+47119,Bán lẻ trong cửa hàng kinh doanh tổng hợp khác,4711
+47191,Bán lẻ trong siêu thị (Supermarket),4719
+47192,Bán lẻ trong cửa hàng tiện lợi (Minimarket),4719
+47199,Bán lẻ trong cửa hàng kinh doanh tổng hợp khác,4719
+47210,Bán lẻ lương thực trong các cửa hàng chuyên doanh,4721
+47221,Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh,4722
+47222,Bán lẻ thủy sản trong các cửa hàng chuyên doanh,4722
+47223,"Bán lẻ rau, quả trong các cửa hàng chuyên doanh",4722
+47224,"Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngữ cốc, bột, tinh bột trong các cửa hàng chuyên doanh",4722
+47229,Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh,4722
+47230,Bán lẻ đồ uống trong các cửa hàng chuyên doanh,4723
+47240,"Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh",4724
+47300,Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh,4730
+47411,"Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh",4741
+47412,Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh,4741
+47420,Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh,4742
+47511,Bán lẻ vải trong các cửa hàng chuyên doanh,4751
+47519,"Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh",4751
+47521,Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh,4752
+47522,"Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh",4752
+47523,Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh,4752
+47524,"Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi, sắt thép và vật liệu xây dựng khác trong các cửa hàng chuyên doanh",4752
+47525,"Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh",4752
+47529,Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh,4752
+47530,"Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh",4753
+47591,"Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh",4759
+47592,"Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh",4759
+47593,"Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh",4759
+47594,Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh,4759
+47599,Bán lẻ đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh,4759
+47610,"Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh",4761
+47620,"Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh",4762
+47630,"Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh",4763
+47640,"Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh",4764
+47711,Bán lẻ hàng may mặc trong các cửa hàng chuyên doanh,4771
+47712,Bán lẻ giày dép trong các cửa hàng chuyên doanh,4771
+47713,"Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh",4771
+47721,"Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh",4772
+47722,"Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh",4772
+47723,"Bán thuốc đông y, bán thuốc nam trong các cửa hàng chuyên doanh",4772
+47731,"Bán lẻ hoa, cây cảnh, cá cảnh, chim cảnh, vật nuôi cảnh trong các cửa hàng chuyên doanh",4773
+47732,"Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh",4773
+47733,"Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh",4773
+47734,"Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ) trong các cửa hàng chuyên doanh",4773
+47735,"Bán lẻ dầu hoả, gas, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh",4773
+47736,"Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh",4773
+47737,"Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh",4773
+47738,Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh,4773
+47739,Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh,4773
+47741,Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh,4774
+47749,Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa hàng chuyên doanh,4774
+47811,Bán lẻ lương thực lưu động hoặc tại chợ,4781
+47812,"Bán lẻ thực phẩm khô, thực phẩm công nghiệp, đường sữa bánh kẹo lưu động hoặc tại chợ",4781
+47813,Bán lẻ đồ uống lưu động hoặc tại chợ,4781
+47814,"Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ",4781
+47815,"Bán lẻ thịt gia súc, gia cầm tươi sống, đông lạnh lưu động hoặc tại chợ",4781
+47816,"Bán lẻ thủy sản tươi sống, đông lạnh lưu động hoặc tại chợ",4781
+47817,Bán lẻ rau quả lưu động hoặc tại chợ,4781
+47818,Bán lẻ thực phẩm chín lưu động hoặc tại chợ,4781
+47819,Bán lẻ thực phẩm loại khác chưa được phân vào đâu,4781
+47821,Bán lẻ hàng dệt lưu động hoặc tại chợ,4782
+47822,Bán lẻ hàng may mặc lưu động hoặc tại chợ,4782
+47823,Bán lẻ giày dép lưu động hoặc tại chợ,4782
+47830,Bán lẻ thiết bị công nghệ thông tin liên lạc lưu động hoặc tại chợ,4783
+47841,"Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng lưu động hoặc tại chợ",4784
+47842,"Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn lưu động hoặc tại chợ",4784
+47843,"Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu lưu động hoặc tại chợ",4784
+47850,"Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ",4785
+47891,Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ,4789
+47892,"Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ",4789
+47893,"Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ",4789
+47894,"Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức lưu động hoặc tại chợ",4789
+47895,"Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ lưu động hoặc tại chợ",4789
+47896,"Bán lẻ đồng hồ, kính mắt lưu động hoặc tại chợ",4789
+47897,Bán lẻ xe đạp và phụ tùng lưu động hoặc tại chợ,4789
+47898,Bán lẻ hàng hóa đã qua sử dụng lưu động hoặc tại chợ,4789
+47899,"Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ",4789
+47910,Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet,4791
+47990,Bán lẻ hình thức khác chưa được phân vào đâu,4799
+49110,Vận tải hành khách đường sắt,4911
+49120,Vận tải hàng hóa đường sắt,4912
+49210,Vận tải hành khách bằng xe buýt trong nội thành,4921
+49220,"Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh",4922
+49290,Vận tải hành khách bằng xe buýt loại khác,4929
+49311,Vận tải hành khách bằng hệ thống đường sắt ngầm hoặc đường sắt trên cao,4931
+49312,Vận tải hành khách bằng taxi,4931
+49313,"Vận tải hành khách bàng mô tô, xe máy và xe có động cơ khác",4931
+49319,"Vận tải hành khách đường bộ loại khác trong nội thành, ngoại thành (trừ xe buýt)",4931
+49321,"Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh",4932
+49329,Vận tải hành khách đường bộ khác chưa được phân vào đâu,4932
+49331,Vận tải hàng hóa bằng ô tô chuyên dụng,4933
+49332,Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng),4933
+49333,Vận tải hàng hóa bằng xe có động cơ loại khác,4933
+49334,Vận tải hàng hóa bằng xe thô sơ,4933
+49339,Vận tải hàng hóa bằng phương tiện đường bộ khác,4933
+49400,Vận tải đường ống,4940
+50111,Vận tải hành khách ven biển,5011
+50112,Vận tải hành khách viễn dương,5011
+50121,Vận tải hàng hóa ven biển,5012
+50122,Vận tải hàng hóa viễn dương,5012
+50211,Vận tải hành khách đường thủy nội địa bằng phương tiện cơ giới,5021
+50212,Vận tải hành khách đường thủy nội địa bằng phương tiện thô sơ,5021
+50221,Vận tải hàng hóa đường thủy nội địa bằng phương tiện cơ giới,5022
+50222,Vận tải hàng hóa đường thủy nội địa bằng phương tiện thô sơ,5022
+51101,Vận tải hành khách hàng không theo tuyến và lịch trình cố định,5110
+51109,Vận tải hành khách hàng không loại khác,5110
+51201,Vận tải hàng hóa hàng không theo tuyến và lịch trình cố định,5120
+51209,Vận tải hàng hóa hàng không loại khác,5120
+52101,Kho bãi và lưu giữ hàng hóa trong kho ngoại quan,5210
+52102,Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan),5210
+52109,Kho bãi và lưu giữ hàng hóa trong kho loại khác,5210
+52210,Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt,5221
+52221,Hoạt động điều hành cảng biển,5222
+52222,Hoạt động dịch vụ hỗ trợ liên quan đến vận tải ven biển và viễn dương,5222
+52223,Hoạt động điều hành cảng đường thủy nội địa,5222
+52224,Hoạt động dịch vụ hỗ trợ liên quan đến vận tải đường thủy nội địa,5222
+52231,Dịch vụ điều hành bay,5223
+52232,Dịch vụ điều hành hoạt động cảng hàng không,5223
+52239,Hoạt động dịch vụ hỗ trợ liên quan đến vận tải hàng không,5223
+52241,Bốc xếp hàng hóa ga đường sắt,5224
+52242,Bốc xếp hàng hóa đường bộ,5224
+52243,Bốc xếp hàng hóa cảng biển,5224
+52244,Bốc xếp hàng hóa cảng sông,5224
+52245,Bốc xếp hàng hóa cảng hàng không,5224
+52249,Bốc xếp hàng hóa loại khác,5224
+52251,Hoạt động điều hành bến xe,5225
+52252,"Hoạt động quản lý, điều hành đường cao tốc, cầu, hầm đường bộ",5225
+52253,"Hoạt động quản lý bãi đỗ, trông giữ phương tiện đường bộ",5225
+52259,Hoạt động dịch vụ khác hỗ trợ liên quan đến vận tải đường bộ,5225
+52291,"Dịch vụ đại lý, giao nhận vận chuyển",5229
+52292,Logistics,5229
+52299,Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu,5229
+53100,Bưu chính,5310
+53200,Chuyển phát,5320
+55101,Khách sạn,5510
+55102,Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày,5510
+55103,"Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày",5510
+55104,"Nhà trọ, phòng trọ và các cơ sở lưu trú ngắn ngày tương tự",5510
+55901,"Ký túc xá học sinh, sinh viên",5590
+55902,"Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm",5590
+55909,Cơ sở lưu trú khác chưa được phân vào đâu,5590
+56101,"Nhà hàng, quán ăn, hàng ăn uống (trừ cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh)",5610
+56102,Cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh,5610
+56109,Dịch vụ ăn uống phục vụ lưu động khác,5610
+56210,Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng,5621
+56290,Dịch vụ ăn uống khác,5629
+56301,"Quán rượu, bia, quầy bar",5630
+56302,"Quán cà phê, giải khát",5630
+56309,Dịch vụ phục vụ đồ uống khác,5630
+58111,Xuất bản sách trực tuyến,5811
+58112,Xuất bản sách khác,5811
+58121,Xuất bản các danh mục chỉ dẫn và địa chỉ trực tuyến,5812
+58122,Xuất bản các danh mục chỉ dẫn và địa chỉ khác,5812
+58131,"Xuất bản báo, tạp chí và các ấn phẩm định kỳ trực tuyến",5813
+58132,"Xuất bản báo, tạp chí và các ấn phẩm định kỳ khác",5813
+58191,Hoạt động xuất bản trực tuyến khác,5819
+58192,Hoạt động xuất bản khác,5819
+58200,Xuất bản phần mềm,5820
+59111,Hoạt động sản xuất phim điện ảnh,5911
+59112,Hoạt động sản xuất phim video,5911
+59113,Hoạt động sản xuất chương trình truyền hình,5911
+59120,Hoạt động hậu kỳ,5912
+59130,"Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình",5913
+59141,Hoạt động chiếu phim cố định,5914
+59142,Hoạt động chiếu phim lưu động,5914
+59200,Hoạt động ghi âm và xuất bản âm nhạc,5920
+60100,Hoạt động phát thanh,6010
+60210,Hoạt động truyền hình,6021
+60220,"Chương trình cáp, vệ tinh và các chương trình thuê bao khác",6022
+61101,Hoạt động cung cấp trực tiếp dịch vụ viễn thông có dây,6110
+61102,Hoạt động cung cấp dịch vụ viễn thông có dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác,6110
+61201,Hoạt động cung cấp trực tiếp dịch vụ viễn thông không dây,6120
+61202,Hoạt động cung cấp dịch vụ viễn thông không dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác,6120
+61300,Hoạt động viễn thông vệ tinh,6130
+61901,Hoạt động của các điểm truy cập internet,6190
+61909,Hoạt động viễn thông khác chưa được phân vào đâu,6190
+62010,Lập trình máy vi tính,6201
+62020,Tư vấn máy vi tính và quản trị hệ thống máy vi tính,6202
+62090,Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính,6209
+63110,"Xử lý dữ liệu, cho thuê và các hoạt động liên quan",6311
+63120,Cổng thông tin,6312
+63910,Hoạt động thông tấn,6391
+63990,Dịch vụ thông tin khác chưa được phân vào đâu,6399
+64110,Hoạt động ngân hàng trung ương,6411
+64190,Hoạt động trung gian tiền tệ khác,6419
+64200,Hoạt động công ty nắm giữ tài sản,6420
+64300,"Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác",6430
+64910,Hoạt động cho thuê tài chính,6491
+64920,Hoạt động cấp tín dụng khác,6492
+64990,Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội),6499
+65110,Bảo hiểm nhân thọ,6511
+65120,Bảo hiểm phi nhân thọ,6512
+65131,Bảo hiểm y tế,6513
+65139,Bảo hiểm sức khỏe khác,6513
+65200,Tái bảo hiểm,6520
+65300,Bảo hiểm xã hội,6530
+66110,Quản lý thị trường tài chính,6611
+66120,Môi giới hợp đồng hàng hóa và chứng khoán,6612
+66190,Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu,6619
+66210,Đánh giá rủi ro và thiệt hại,6621
+66220,Hoạt động của đại lý và môi giới bảo hiểm,6622
+66290,Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội,6629
+66300,Hoạt động quản lý quỹ,6630
+68101,"Mua, bán nhà ở và quyền sử dụng đất ở",6810
+68102,"Mua, bán nhà và quyền sử dụng đất không để ở",6810
+68103,"Cho thuê, điều hành, quản lý nhà và đất ở",6810
+68104,"Cho thuê, điều hành, quản lý nhà và đất không để ở",6810
+68109,Kinh doanh bất động sản khác,6810
+68201,"Tư vấn, môi giới bất động sản, quyền sử dụng đất",6820
+68202,"Đấu giá bất động sản, quyền sử dụng đất",6820
+69101,"Hoạt động đại diện, tư vấn pháp luật",6910
+69102,"Hướng dẫn chung và tư vấn, chuẩn bị các tài liệu pháp lý",6910
+69109,Hoạt động pháp luật khác,6910
+69200,"Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế",6920
+70100,Hoạt động của trụ sở văn phòng,7010
+70200,Hoạt động tư vấn quản lý,7020
+71101,Hoạt động kiến trúc,7110
+71102,Hoạt động đo đạc và bản đồ,7110
+71103,"Hoạt động thăm dò địa chất, nguồn nước",7110
+71109,Hoạt động tư vấn kỹ thuật có liên quan khác,7110
+71200,Kiểm tra và phân tích kỹ thuật,7120
+72110,Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên,7211
+72120,Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ,7212
+72130,"Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược",7213
+72140,Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp,7214
+72210,Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội,7221
+72220,Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nhân văn,7222
+73100,Quảng cáo,7310
+73200,Nghiên cứu thị trường và thăm dò dư luận,7320
+74100,Hoạt động thiết kế chuyên dụng,7410
+74200,Hoạt động nhiếp ảnh,7420
+74901,Hoạt động khí tượng thủy văn,7490
+74909,"Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu",7490
+75000,Hoạt động thú y,7500
+77101,Cho thuê ôtô,7710
+77109,Cho thuê xe có động cơ khác,7710
+77210,"Cho thuê thiết bị thể thao, vui chơi giải trí",7721
+77220,"Cho thuê băng, đĩa video",7722
+77290,Cho thuê đồ dùng cá nhân và gia đình khác,7729
+77301,"Cho thuê máy móc, thiết bị nông, lâm nghiệp không kèm người điều khiển",7730
+77302,"Cho thuê máy móc, thiết bị xây dựng không kèm người điều khiển",7730
+77303,"Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính) không kèm người điều khiển",7730
+77304,"Cho thuê máy bay, phương tiện bay không kèm người điều khiển",7730
+77305,"Cho thuê tàu, thuyền và kết cấu nổi không kèm người điều khiển",7730
+77309,"Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác, không kèm người điều khiển chưa được phân vào đâu",7730
+77400,Cho thuê tài sản vô hình phi tài chính,7740
+78100,"Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm",7810
+78200,Cung ứng lao động tạm thời,7820
+78301,Cung ứng và quản lý nguồn lao động trong nước,7830
+78302,Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài,7830
+79110,Đại lý du lịch,7911
+79120,Điều hành tua du lịch,7912
+79900,Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch,7990
+80100,Hoạt động bảo vệ tư nhân,8010
+80200,Dịch vụ hệ thống bảo đảm an toàn,8020
+80300,Dịch vụ điều tra,8030
+81100,Dịch vụ hỗ trợ tổng hợp,8110
+81210,Vệ sinh chung nhà cửa,8121
+81290,Vệ sinh công nghiệp và các công trình chuyên biệt,8129
+81300,Dịch vụ chăm sóc và duy trì cảnh quan,8130
+82110,Dịch vụ hành chính văn phòng tổng hợp,8211
+82191,"Photo, chuẩn bị tài liệu",8219
+82199,Hoạt động hỗ trợ văn phòng đặc biệt khác,8219
+82200,Hoạt động dịch vụ liên quan đến các cuộc gọi,8220
+82300,Tổ chức giới thiệu và xúc tiến thương mại,8230
+82910,"Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng",8291
+82920,Dịch vụ đóng gói,8292
+82990,Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu,8299
+84111,"Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội",8411
+84112,Hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp,8411
+84120,"Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hóa và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc)",8412
+84130,Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành,8413
+84210,Hoạt động đối ngoại,8421
+84220,Hoạt động quốc phòng,8422
+84230,"Hoạt động an ninh, trật tự an toàn xã hội",8423
+84300,Hoạt động bảo đảm xã hội bắt buộc,8430
+85110,Giáo dục nhà trẻ,8511
+85120,Giáo dục mẫu giáo,8512
+85210,Giáo dục tiểu học,8521
+85220,Giáo dục trung học cơ sở,8522
+85230,Giáo dục trung học phổ thông,8523
+85310,Đào tạo sơ cấp,8531
+85320,Đào tạo trung cấp,8532
+85330,Đào tạo cao đẳng,8533
+85410,Đào tạo đại học,8541
+85420,Đào tạo thạc sỹ,8542
+85430,Đào tạo tiến sỹ,8543
+85510,Giáo dục thể thao và giải trí,8551
+85520,Giáo dục văn hóa nghệ thuật,8552
+85590,Giáo dục khác chưa được phân vào đâu,8559
+85600,Dịch vụ hỗ trợ giáo dục,8560
+86101,Hoạt động của các bệnh viện,8610
+86102,Hoạt động của các trạm y tế và trạm y tế bộ/ngành,8610
+86201,"Hoạt động của các phòng khám đa khoa, chuyên khoa",8620
+86202,Hoạt động của các phòng khám nha khoa,8620
+86910,Hoạt động y tế dự phòng,8691
+86920,"Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng",8692
+86990,Hoạt động y tế khác chưa được phân vào đâu,8699
+87101,"Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh",8710
+87109,"Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác",8710
+87201,"Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần",8720
+87202,"Hoạt động chăm sóc sức khoẻ, cai nghiện phục hồi người nghiện",8720
+87301,Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh),8730
+87302,Hoạt động chăm sóc sức khoẻ người già,8730
+87303,Hoạt động chăm sóc sức khoẻ người khuyết tật,8730
+87901,"Hoạt động chữa bệnh, phục hồi nhân phẩm cho đối tượng mại dâm",8790
+87909,Hoạt động chăm sóc tập trung khác chưa được phân vào đâu,8790
+88101,Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh),8810
+88102,Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh,8810
+88103,Hoạt động trợ giúp xã hội không tập trung đối với người già và người khuyết tật,8810
+88900,Hoạt động trợ giúp xã hội không tập trung khác,8890
+90000,"Hoạt động sáng tác, nghệ thuật và giải trí",9000
+91010,Hoạt động thư viện và lưu trữ,9101
+91020,"Hoạt động bảo tồn, bảo tàng",9102
+91030,"Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên",9103
+92001,Hoạt động xổ số,9200
+92002,Hoạt động cá cược và đánh bạc,9200
+93110,Hoạt động của các cơ sở thể thao,9311
+93120,Hoạt động của các câu lạc bộ thể thao,9312
+93190,Hoạt động thể thao khác,9319
+93210,Hoạt động của các công viên vui chơi và công viên theo chủ đề,9321
+93290,Hoạt động vui chơi giải trí khác chưa được phân vào đâu,9329
+94110,Hoạt động của các hiệp hội kinh doanh và nghiệp chủ,9411
+94120,Hoạt động của các hội nghề nghiệp,9412
+94200,Hoạt động của công đoàn,9420
+94910,Hoạt động của các tổ chức tôn giáo,9491
+94990,Hoạt động của các tổ chức khác chưa được phân vào đâu,9499
+95110,Sửa chữa máy vi tính và thiết bị ngoại vi,9511
+95120,Sửa chữa thiết bị liên lạc,9512
+95210,Sửa chữa thiết bị nghe nhìn điện tử gia dụng,9521
+95220,"Sửa chữa thiết bị, đồ dùng gia đình",9522
+95230,"Sửa chữa giày, dép, hàng da và giả da",9523
+95240,"Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tư",9524
+95290,"Sửa chữa xe đạp, đồng hồ, đồ dùng cá nhân và gia đình khác chưa được phân vào đâu",9529
+96100,"Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)",9610
+96200,"Giặt là, làm sạch các sản phẩm dệt và lông thú",9620
+96310,"Cắt tóc, làm đầu, gội đầu",9631
+96320,Hoạt động dịch vụ phục vụ tang lễ,9632
+96330,Hoạt động dịch vụ phục vụ hôn lễ,9633
+96390,Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu,9639
+97000,Hoạt động làm thuê công việc gia đình trong các hộ gia đình,9700
+98100,Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình,9810
+98200,Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình,9820
+99000,Hoạt động của các tổ chức và cơ quan quốc tế,9900

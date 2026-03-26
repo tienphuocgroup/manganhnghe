@@ -1,0 +1,4406 @@
+[
+  {
+    "code": "01110",
+    "level": 5,
+    "name": "Trồng lúa",
+    "parent": "0111"
+  },
+  {
+    "code": "01120",
+    "level": 5,
+    "name": "Trồng ngô và cây lương thực có hạt khác",
+    "parent": "0112"
+  },
+  {
+    "code": "01130",
+    "level": 5,
+    "name": "Trồng cây lấy củ có chất bột",
+    "parent": "0113"
+  },
+  {
+    "code": "01140",
+    "level": 5,
+    "name": "Trồng cây mía",
+    "parent": "0114"
+  },
+  {
+    "code": "01150",
+    "level": 5,
+    "name": "Trồng cây thuốc lá, thuốc lào",
+    "parent": "0115"
+  },
+  {
+    "code": "01160",
+    "level": 5,
+    "name": "Trồng cây lấy sợi",
+    "parent": "0116"
+  },
+  {
+    "code": "01170",
+    "level": 5,
+    "name": "Trồng cây có hạt chứa dầu",
+    "parent": "0117"
+  },
+  {
+    "code": "01181",
+    "level": 5,
+    "name": "Trồng rau các loại",
+    "parent": "0118"
+  },
+  {
+    "code": "01182",
+    "level": 5,
+    "name": "Trồng đậu các loại",
+    "parent": "0118"
+  },
+  {
+    "code": "01183",
+    "level": 5,
+    "name": "Trồng hoa hàng năm",
+    "parent": "0118"
+  },
+  {
+    "code": "01191",
+    "level": 5,
+    "name": "Trồng cây gia vị hàng năm",
+    "parent": "0119"
+  },
+  {
+    "code": "01192",
+    "level": 5,
+    "name": "Trồng cây dược liệu, hương liệu hàng năm",
+    "parent": "0119"
+  },
+  {
+    "code": "01199",
+    "level": 5,
+    "name": "Trồng cây hàng năm khác còn lại",
+    "parent": "0119"
+  },
+  {
+    "code": "01211",
+    "level": 5,
+    "name": "Trồng nho",
+    "parent": "0121"
+  },
+  {
+    "code": "01212",
+    "level": 5,
+    "name": "Trồng cây ăn quả vùng nhiệt đới và cận nhiệt đới",
+    "parent": "0121"
+  },
+  {
+    "code": "01213",
+    "level": 5,
+    "name": "Trồng cam, quýt và các loại quả có múi khác",
+    "parent": "0121"
+  },
+  {
+    "code": "01214",
+    "level": 5,
+    "name": "Trồng táo, mận và các loại quả có hạt như táo",
+    "parent": "0121"
+  },
+  {
+    "code": "01215",
+    "level": 5,
+    "name": "Trồng nhãn, vải, chôm chôm",
+    "parent": "0121"
+  },
+  {
+    "code": "01219",
+    "level": 5,
+    "name": "Trồng cây ăn quả khác",
+    "parent": "0121"
+  },
+  {
+    "code": "01220",
+    "level": 5,
+    "name": "Trồng cây lấy quả chứa dầu",
+    "parent": "0122"
+  },
+  {
+    "code": "01230",
+    "level": 5,
+    "name": "Trồng cây điều",
+    "parent": "0123"
+  },
+  {
+    "code": "01240",
+    "level": 5,
+    "name": "Trồng cây hồ tiêu",
+    "parent": "0124"
+  },
+  {
+    "code": "01250",
+    "level": 5,
+    "name": "Trồng cây cao su",
+    "parent": "0125"
+  },
+  {
+    "code": "01260",
+    "level": 5,
+    "name": "Trồng cây cà phê",
+    "parent": "0126"
+  },
+  {
+    "code": "01270",
+    "level": 5,
+    "name": "Trồng cây chè",
+    "parent": "0127"
+  },
+  {
+    "code": "01281",
+    "level": 5,
+    "name": "Trồng cây gia vị lâu năm",
+    "parent": "0128"
+  },
+  {
+    "code": "01282",
+    "level": 5,
+    "name": "Trồng cây dược liệu, hương liệu lâu năm",
+    "parent": "0128"
+  },
+  {
+    "code": "01291",
+    "level": 5,
+    "name": "Trồng cây cảnh lâu năm",
+    "parent": "0129"
+  },
+  {
+    "code": "01299",
+    "level": 5,
+    "name": "Trồng cây lâu năm khác còn lại",
+    "parent": "0129"
+  },
+  {
+    "code": "01310",
+    "level": 5,
+    "name": "Nhân và chăm sóc cây giống hàng năm",
+    "parent": "0131"
+  },
+  {
+    "code": "01320",
+    "level": 5,
+    "name": "Nhân và chăm sóc cây giống lâu năm",
+    "parent": "0132"
+  },
+  {
+    "code": "01411",
+    "level": 5,
+    "name": "Sản xuất giống trâu, bò",
+    "parent": "0141"
+  },
+  {
+    "code": "01412",
+    "level": 5,
+    "name": "Chăn nuôi trâu, bò",
+    "parent": "0141"
+  },
+  {
+    "code": "01421",
+    "level": 5,
+    "name": "Sản xuất giống ngựa, lừa",
+    "parent": "0142"
+  },
+  {
+    "code": "01422",
+    "level": 5,
+    "name": "Chăn nuôi ngựa, lừa, la",
+    "parent": "0142"
+  },
+  {
+    "code": "01441",
+    "level": 5,
+    "name": "Sản xuất giống dê, cừu, hươu, nai",
+    "parent": "0144"
+  },
+  {
+    "code": "01442",
+    "level": 5,
+    "name": "Chăn nuôi dê, cừu, hươu, nai",
+    "parent": "0144"
+  },
+  {
+    "code": "01451",
+    "level": 5,
+    "name": "Sản xuất giống lợn",
+    "parent": "0145"
+  },
+  {
+    "code": "01452",
+    "level": 5,
+    "name": "Chăn nuôi lợn",
+    "parent": "0145"
+  },
+  {
+    "code": "01461",
+    "level": 5,
+    "name": "Hoạt động ấp trứng và sản xuất giống gia cầm",
+    "parent": "0146"
+  },
+  {
+    "code": "01462",
+    "level": 5,
+    "name": "Chăn nuôi gà",
+    "parent": "0146"
+  },
+  {
+    "code": "01463",
+    "level": 5,
+    "name": "Chăn nuôi vịt, ngan, ngỗng",
+    "parent": "0146"
+  },
+  {
+    "code": "01469",
+    "level": 5,
+    "name": "Chăn nuôi gia cầm khác",
+    "parent": "0146"
+  },
+  {
+    "code": "01490",
+    "level": 5,
+    "name": "Chăn nuôi khác",
+    "parent": "0149"
+  },
+  {
+    "code": "01500",
+    "level": 5,
+    "name": "Trồng trọt, chăn nuôi hỗn hợp",
+    "parent": "0150"
+  },
+  {
+    "code": "01610",
+    "level": 5,
+    "name": "Hoạt động dịch vụ trồng trọt",
+    "parent": "0161"
+  },
+  {
+    "code": "01620",
+    "level": 5,
+    "name": "Hoạt động dịch vụ chăn nuôi",
+    "parent": "0162"
+  },
+  {
+    "code": "01630",
+    "level": 5,
+    "name": "Hoạt động dịch vụ sau thu hoạch",
+    "parent": "0163"
+  },
+  {
+    "code": "01640",
+    "level": 5,
+    "name": "Xử lý hạt giống để nhân giống",
+    "parent": "0164"
+  },
+  {
+    "code": "01700",
+    "level": 5,
+    "name": "Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan",
+    "parent": "0170"
+  },
+  {
+    "code": "02101",
+    "level": 5,
+    "name": "Trồng rừng và chăm sóc rừng cây thân gỗ",
+    "parent": "0210"
+  },
+  {
+    "code": "02102",
+    "level": 5,
+    "name": "Trồng rừng và chăm sóc rừng họ tre",
+    "parent": "0210"
+  },
+  {
+    "code": "02103",
+    "level": 5,
+    "name": "Trồng rừng và chăm sóc rừng khác",
+    "parent": "0210"
+  },
+  {
+    "code": "02104",
+    "level": 5,
+    "name": "Ươm giống cây lâm nghiệp",
+    "parent": "0210"
+  },
+  {
+    "code": "02200",
+    "level": 5,
+    "name": "Khai thác gỗ",
+    "parent": "0220"
+  },
+  {
+    "code": "02310",
+    "level": 5,
+    "name": "Khai thác lâm sản khác trừ gỗ",
+    "parent": "0231"
+  },
+  {
+    "code": "02320",
+    "level": 5,
+    "name": "Thu nhặt lâm sản khác trừ gỗ",
+    "parent": "0232"
+  },
+  {
+    "code": "02400",
+    "level": 5,
+    "name": "Hoạt động dịch vụ lâm nghiệp",
+    "parent": "0240"
+  },
+  {
+    "code": "03110",
+    "level": 5,
+    "name": "Khai thác thủy sản biển",
+    "parent": "0311"
+  },
+  {
+    "code": "03120",
+    "level": 5,
+    "name": "Khai thác thủy sản nội địa",
+    "parent": "0312"
+  },
+  {
+    "code": "03211",
+    "level": 5,
+    "name": "Nuôi cá",
+    "parent": "0321"
+  },
+  {
+    "code": "03212",
+    "level": 5,
+    "name": "Nuôi tôm",
+    "parent": "0321"
+  },
+  {
+    "code": "03213",
+    "level": 5,
+    "name": "Nuôi thủy sản khác",
+    "parent": "0321"
+  },
+  {
+    "code": "03214",
+    "level": 5,
+    "name": "Sản xuất giống thủy sản biển",
+    "parent": "0321"
+  },
+  {
+    "code": "03221",
+    "level": 5,
+    "name": "Nuôi cá",
+    "parent": "0322"
+  },
+  {
+    "code": "03222",
+    "level": 5,
+    "name": "Nuôi tôm",
+    "parent": "0322"
+  },
+  {
+    "code": "03223",
+    "level": 5,
+    "name": "Nuôi thủy sản khác",
+    "parent": "0322"
+  },
+  {
+    "code": "03224",
+    "level": 5,
+    "name": "Sản xuất giống thủy sản nội địa",
+    "parent": "0322"
+  },
+  {
+    "code": "05100",
+    "level": 5,
+    "name": "Khai thác và thu gom than cứng",
+    "parent": "0510"
+  },
+  {
+    "code": "05200",
+    "level": 5,
+    "name": "Khai thác và thu gom than non",
+    "parent": "0520"
+  },
+  {
+    "code": "06100",
+    "level": 5,
+    "name": "Khai thác dầu thô",
+    "parent": "0610"
+  },
+  {
+    "code": "06200",
+    "level": 5,
+    "name": "Khai thác khí đốt tự nhiên",
+    "parent": "0620"
+  },
+  {
+    "code": "07100",
+    "level": 5,
+    "name": "Khai thác quặng sắt",
+    "parent": "0710"
+  },
+  {
+    "code": "07210",
+    "level": 5,
+    "name": "Khai thác quặng uranium và quặng thorium",
+    "parent": "0721"
+  },
+  {
+    "code": "07221",
+    "level": 5,
+    "name": "Khai thác quặng bôxít",
+    "parent": "0722"
+  },
+  {
+    "code": "07229",
+    "level": 5,
+    "name": "Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu",
+    "parent": "0722"
+  },
+  {
+    "code": "07300",
+    "level": 5,
+    "name": "Khai thác quặng kim loại quý hiếm",
+    "parent": "0730"
+  },
+  {
+    "code": "08101",
+    "level": 5,
+    "name": "Khai thác đá",
+    "parent": "0810"
+  },
+  {
+    "code": "08102",
+    "level": 5,
+    "name": "Khai thác cát, sỏi",
+    "parent": "0810"
+  },
+  {
+    "code": "08103",
+    "level": 5,
+    "name": "Khai thác đất sét",
+    "parent": "0810"
+  },
+  {
+    "code": "08910",
+    "level": 5,
+    "name": "Khai thác khoáng hoá chất và khoáng phân bón",
+    "parent": "0891"
+  },
+  {
+    "code": "08920",
+    "level": 5,
+    "name": "Khai thác và thu gom than bùn",
+    "parent": "0892"
+  },
+  {
+    "code": "08930",
+    "level": 5,
+    "name": "Khai thác muối",
+    "parent": "0893"
+  },
+  {
+    "code": "08990",
+    "level": 5,
+    "name": "Khai khoáng khác chưa được phân vào đâu",
+    "parent": "0899"
+  },
+  {
+    "code": "09100",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên",
+    "parent": "0910"
+  },
+  {
+    "code": "09900",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ khai khoáng khác",
+    "parent": "0990"
+  },
+  {
+    "code": "10101",
+    "level": 5,
+    "name": "Giết mổ gia súc, gia cầm",
+    "parent": "1010"
+  },
+  {
+    "code": "10102",
+    "level": 5,
+    "name": "Chế biến và bảo quản thịt",
+    "parent": "1010"
+  },
+  {
+    "code": "10109",
+    "level": 5,
+    "name": "Chế biến và bảo quản các sản phẩm từ thịt",
+    "parent": "1010"
+  },
+  {
+    "code": "10201",
+    "level": 5,
+    "name": "Chế biến và bảo quản thủy sản đông lạnh",
+    "parent": "1020"
+  },
+  {
+    "code": "10202",
+    "level": 5,
+    "name": "Chế biến và bảo quản thủy sản khô",
+    "parent": "1020"
+  },
+  {
+    "code": "10203",
+    "level": 5,
+    "name": "Chế biến và bảo quản nước mắm",
+    "parent": "1020"
+  },
+  {
+    "code": "10209",
+    "level": 5,
+    "name": "Chế biến và bảo quản các sản phẩm khác từ thủy sản",
+    "parent": "1020"
+  },
+  {
+    "code": "10301",
+    "level": 5,
+    "name": "Sản xuất nước ép từ rau quả",
+    "parent": "1030"
+  },
+  {
+    "code": "10309",
+    "level": 5,
+    "name": "Chế biến và bảo quản rau quả khác",
+    "parent": "1030"
+  },
+  {
+    "code": "10401",
+    "level": 5,
+    "name": "Sản xuất dầu, mỡ động vật",
+    "parent": "1040"
+  },
+  {
+    "code": "10402",
+    "level": 5,
+    "name": "Sản xuất dầu, bơ thực vật",
+    "parent": "1040"
+  },
+  {
+    "code": "10500",
+    "level": 5,
+    "name": "Chế biến sữa và các sản phẩm từ sữa",
+    "parent": "1050"
+  },
+  {
+    "code": "10611",
+    "level": 5,
+    "name": "Xay xát",
+    "parent": "1061"
+  },
+  {
+    "code": "10612",
+    "level": 5,
+    "name": "Sản xuất bột thô",
+    "parent": "1061"
+  },
+  {
+    "code": "10620",
+    "level": 5,
+    "name": "Sản xuất tinh bột và các sản phẩm từ tinh bột",
+    "parent": "1062"
+  },
+  {
+    "code": "10710",
+    "level": 5,
+    "name": "Sản xuất các loại bánh từ bột",
+    "parent": "1071"
+  },
+  {
+    "code": "10720",
+    "level": 5,
+    "name": "Sản xuất đường",
+    "parent": "1072"
+  },
+  {
+    "code": "10730",
+    "level": 5,
+    "name": "Sản xuất ca cao, sôcôla và bánh kẹo",
+    "parent": "1073"
+  },
+  {
+    "code": "10740",
+    "level": 5,
+    "name": "Sản xuất mì ống, mỳ sợi và sản phẩm tương tự",
+    "parent": "1074"
+  },
+  {
+    "code": "10751",
+    "level": 5,
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn từ thịt",
+    "parent": "1075"
+  },
+  {
+    "code": "10752",
+    "level": 5,
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn từ thủy sản",
+    "parent": "1075"
+  },
+  {
+    "code": "10759",
+    "level": 5,
+    "name": "Sản xuất món ăn, thức ăn chế biến sẵn khác",
+    "parent": "1075"
+  },
+  {
+    "code": "10760",
+    "level": 5,
+    "name": "Sản xuất chè",
+    "parent": "1076"
+  },
+  {
+    "code": "10770",
+    "level": 5,
+    "name": "Sản xuất cà phê",
+    "parent": "1077"
+  },
+  {
+    "code": "10790",
+    "level": 5,
+    "name": "Sản xuất thực phẩm khác chưa được phân vào đâu",
+    "parent": "1079"
+  },
+  {
+    "code": "10800",
+    "level": 5,
+    "name": "Sản xuất thức ăn gia súc, gia cầm và thuỷ sản",
+    "parent": "1080"
+  },
+  {
+    "code": "11010",
+    "level": 5,
+    "name": "Chưng, tinh cất và pha chế các loại rượu mạnh",
+    "parent": "1101"
+  },
+  {
+    "code": "11020",
+    "level": 5,
+    "name": "Sản xuất rượu vang",
+    "parent": "1102"
+  },
+  {
+    "code": "11030",
+    "level": 5,
+    "name": "Sản xuất bia và mạch nha ủ men bia",
+    "parent": "1103"
+  },
+  {
+    "code": "11041",
+    "level": 5,
+    "name": "Sản xuất nước khoáng, nước tinh khiết đóng chai",
+    "parent": "1104"
+  },
+  {
+    "code": "11042",
+    "level": 5,
+    "name": "Sản xuất đồ uống không cồn",
+    "parent": "1104"
+  },
+  {
+    "code": "12001",
+    "level": 5,
+    "name": "Sản xuất thuốc lá",
+    "parent": "1200"
+  },
+  {
+    "code": "12009",
+    "level": 5,
+    "name": "Sản xuất thuốc hút khác",
+    "parent": "1200"
+  },
+  {
+    "code": "13110",
+    "level": 5,
+    "name": "Sản xuất sợi",
+    "parent": "1311"
+  },
+  {
+    "code": "13120",
+    "level": 5,
+    "name": "Sản xuất vải dệt thoi",
+    "parent": "1312"
+  },
+  {
+    "code": "13130",
+    "level": 5,
+    "name": "Hoàn thiện sản phẩm dệt",
+    "parent": "1313"
+  },
+  {
+    "code": "13910",
+    "level": 5,
+    "name": "Sản xuất vải dệt kim, vải đan móc và vải không dệt khác",
+    "parent": "1391"
+  },
+  {
+    "code": "13920",
+    "level": 5,
+    "name": "Sản xuất hàng dệt sẵn (trừ trang phục)",
+    "parent": "1392"
+  },
+  {
+    "code": "13930",
+    "level": 5,
+    "name": "Sản xuất thảm, chăn, đệm",
+    "parent": "1393"
+  },
+  {
+    "code": "13940",
+    "level": 5,
+    "name": "Sản xuất các loại dây bện và lưới",
+    "parent": "1394"
+  },
+  {
+    "code": "13990",
+    "level": 5,
+    "name": "Sản xuất các loại hàng dệt khác chưa được phân vào đâu",
+    "parent": "1399"
+  },
+  {
+    "code": "14100",
+    "level": 5,
+    "name": "May trang phục (trừ trang phục từ da lông thú)",
+    "parent": "1410"
+  },
+  {
+    "code": "14200",
+    "level": 5,
+    "name": "Sản xuất sản phẩm từ da lông thú",
+    "parent": "1420"
+  },
+  {
+    "code": "14300",
+    "level": 5,
+    "name": "Sản xuất trang phục dệt kim, đan móc",
+    "parent": "1430"
+  },
+  {
+    "code": "15110",
+    "level": 5,
+    "name": "Thuộc, sơ chế da; sơ chế và nhuộm da lông thú",
+    "parent": "1511"
+  },
+  {
+    "code": "15120",
+    "level": 5,
+    "name": "Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm",
+    "parent": "1512"
+  },
+  {
+    "code": "15200",
+    "level": 5,
+    "name": "Sản xuất giày, dép",
+    "parent": "1520"
+  },
+  {
+    "code": "16101",
+    "level": 5,
+    "name": "Cưa, xẻ và bào gỗ",
+    "parent": "1610"
+  },
+  {
+    "code": "16102",
+    "level": 5,
+    "name": "Bảo quản gỗ",
+    "parent": "1610"
+  },
+  {
+    "code": "16210",
+    "level": 5,
+    "name": "Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác",
+    "parent": "1621"
+  },
+  {
+    "code": "16220",
+    "level": 5,
+    "name": "Sản xuất đồ gỗ xây dựng",
+    "parent": "1622"
+  },
+  {
+    "code": "16230",
+    "level": 5,
+    "name": "Sản xuất bao bì bằng gỗ",
+    "parent": "1623"
+  },
+  {
+    "code": "16291",
+    "level": 5,
+    "name": "Sản xuất sản phẩm khác từ gỗ",
+    "parent": "1629"
+  },
+  {
+    "code": "16292",
+    "level": 5,
+    "name": "Sản xuất sản phẩm từ lâm sản (trừ gỗ), cói và vật liệu tết bện",
+    "parent": "1629"
+  },
+  {
+    "code": "17010",
+    "level": 5,
+    "name": "Sản xuất bột giấy, giấy và bìa",
+    "parent": "1701"
+  },
+  {
+    "code": "17021",
+    "level": 5,
+    "name": "Sản xuất bao bì bằng giấy, bìa",
+    "parent": "1702"
+  },
+  {
+    "code": "17022",
+    "level": 5,
+    "name": "Sản xuất giấy nhăn và bìa nhăn",
+    "parent": "1702"
+  },
+  {
+    "code": "17090",
+    "level": 5,
+    "name": "Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu",
+    "parent": "1709"
+  },
+  {
+    "code": "18110",
+    "level": 5,
+    "name": "In ấn",
+    "parent": "1811"
+  },
+  {
+    "code": "18120",
+    "level": 5,
+    "name": "Dịch vụ liên quan đến in",
+    "parent": "1812"
+  },
+  {
+    "code": "18200",
+    "level": 5,
+    "name": "Sao chép bản ghi các loại",
+    "parent": "1820"
+  },
+  {
+    "code": "19100",
+    "level": 5,
+    "name": "Sản xuất than cốc",
+    "parent": "1910"
+  },
+  {
+    "code": "19200",
+    "level": 5,
+    "name": "Sản xuất sản phẩm dầu mỏ tinh chế",
+    "parent": "1920"
+  },
+  {
+    "code": "20111",
+    "level": 5,
+    "name": "Sản xuất khí công nghiệp",
+    "parent": "2011"
+  },
+  {
+    "code": "20112",
+    "level": 5,
+    "name": "Sản xuất chất nhuộm và chất màu",
+    "parent": "2011"
+  },
+  {
+    "code": "20113",
+    "level": 5,
+    "name": "Sản xuất hóa chất vô cơ cơ bản khác",
+    "parent": "2011"
+  },
+  {
+    "code": "20114",
+    "level": 5,
+    "name": "Sản xuất hoá chất hữu cơ cơ bản khác",
+    "parent": "2011"
+  },
+  {
+    "code": "20119",
+    "level": 5,
+    "name": "Sản xuất hóa chất cơ bản khác",
+    "parent": "2011"
+  },
+  {
+    "code": "20120",
+    "level": 5,
+    "name": "Sản xuất phân bón và hợp chất ni tơ",
+    "parent": "2012"
+  },
+  {
+    "code": "20131",
+    "level": 5,
+    "name": "Sản xuất plastic nguyên sinh",
+    "parent": "2013"
+  },
+  {
+    "code": "20132",
+    "level": 5,
+    "name": "Sản xuất cao su tổng hợp dạng nguyên sinh",
+    "parent": "2013"
+  },
+  {
+    "code": "20210",
+    "level": 5,
+    "name": "Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp",
+    "parent": "2021"
+  },
+  {
+    "code": "20221",
+    "level": 5,
+    "name": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít",
+    "parent": "2022"
+  },
+  {
+    "code": "20222",
+    "level": 5,
+    "name": "Sản xuất mực in",
+    "parent": "2022"
+  },
+  {
+    "code": "20231",
+    "level": 5,
+    "name": "Sản xuất mỹ phẩm",
+    "parent": "2023"
+  },
+  {
+    "code": "20232",
+    "level": 5,
+    "name": "Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh",
+    "parent": "2023"
+  },
+  {
+    "code": "20290",
+    "level": 5,
+    "name": "Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu",
+    "parent": "2029"
+  },
+  {
+    "code": "20300",
+    "level": 5,
+    "name": "Sản xuất sợi nhân tạo",
+    "parent": "2030"
+  },
+  {
+    "code": "21001",
+    "level": 5,
+    "name": "Sản xuất thuốc các loại",
+    "parent": "2100"
+  },
+  {
+    "code": "21002",
+    "level": 5,
+    "name": "Sản xuất hoá dược và dược liệu",
+    "parent": "2100"
+  },
+  {
+    "code": "22110",
+    "level": 5,
+    "name": "Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su",
+    "parent": "2211"
+  },
+  {
+    "code": "22190",
+    "level": 5,
+    "name": "Sản xuất sản phẩm khác từ cao su",
+    "parent": "2219"
+  },
+  {
+    "code": "22201",
+    "level": 5,
+    "name": "Sản xuất bao bì từ plastic",
+    "parent": "2220"
+  },
+  {
+    "code": "22209",
+    "level": 5,
+    "name": "Sản xuất sản phẩm khác từ plastic",
+    "parent": "2220"
+  },
+  {
+    "code": "23101",
+    "level": 5,
+    "name": "Sản xuất thủy tinh phẳng và sản phẩm từ thủy tinh phẳng",
+    "parent": "2310"
+  },
+  {
+    "code": "23102",
+    "level": 5,
+    "name": "Sản xuất thủy tinh rỗng và sản phẩm từ thủy tinh rỗng",
+    "parent": "2310"
+  },
+  {
+    "code": "23103",
+    "level": 5,
+    "name": "Sản xuất sợi thủy tinh và sản phẩm từ sợi thủy tinh",
+    "parent": "2310"
+  },
+  {
+    "code": "23109",
+    "level": 5,
+    "name": "Sản xuất thủy tinh khác và các sản phẩm từ thủy tinh",
+    "parent": "2310"
+  },
+  {
+    "code": "23910",
+    "level": 5,
+    "name": "Sản xuất sản phẩm chịu lửa",
+    "parent": "2391"
+  },
+  {
+    "code": "23920",
+    "level": 5,
+    "name": "Sản xuất vật liệu xây dựng từ đất sét",
+    "parent": "2392"
+  },
+  {
+    "code": "23930",
+    "level": 5,
+    "name": "Sản xuất sản phẩm gốm sứ khác",
+    "parent": "2393"
+  },
+  {
+    "code": "23941",
+    "level": 5,
+    "name": "Sản xuất xi măng",
+    "parent": "2394"
+  },
+  {
+    "code": "23942",
+    "level": 5,
+    "name": "Sản xuất vôi",
+    "parent": "2394"
+  },
+  {
+    "code": "23943",
+    "level": 5,
+    "name": "Sản xuất thạch cao",
+    "parent": "2394"
+  },
+  {
+    "code": "23950",
+    "level": 5,
+    "name": "Sản xuất bê tông và các sản phẩm từ bê tông, xi măng và thạch cao",
+    "parent": "2395"
+  },
+  {
+    "code": "23960",
+    "level": 5,
+    "name": "Cắt tạo dáng và hoàn thiện đá",
+    "parent": "2396"
+  },
+  {
+    "code": "23990",
+    "level": 5,
+    "name": "Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu",
+    "parent": "2399"
+  },
+  {
+    "code": "24100",
+    "level": 5,
+    "name": "Sản xuất sắt, thép, gang",
+    "parent": "2410"
+  },
+  {
+    "code": "24201",
+    "level": 5,
+    "name": "Sản xuất kim loại quý",
+    "parent": "2420"
+  },
+  {
+    "code": "24202",
+    "level": 5,
+    "name": "Sản xuất kim loại màu",
+    "parent": "2420"
+  },
+  {
+    "code": "24310",
+    "level": 5,
+    "name": "Đúc sắt, thép",
+    "parent": "2431"
+  },
+  {
+    "code": "24320",
+    "level": 5,
+    "name": "Đúc kim loại màu",
+    "parent": "2432"
+  },
+  {
+    "code": "25110",
+    "level": 5,
+    "name": "Sản xuất các cấu kiện kim loại",
+    "parent": "2511"
+  },
+  {
+    "code": "25120",
+    "level": 5,
+    "name": "Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại",
+    "parent": "2512"
+  },
+  {
+    "code": "25130",
+    "level": 5,
+    "name": "Sản xuất nồi hơi (trừ nồi hơi trung tâm)",
+    "parent": "2513"
+  },
+  {
+    "code": "25200",
+    "level": 5,
+    "name": "Sản xuất vũ khí và đạn dược",
+    "parent": "2520"
+  },
+  {
+    "code": "25910",
+    "level": 5,
+    "name": "Rèn, dập, ép và cán kim loại; luyện bột kim loại",
+    "parent": "2591"
+  },
+  {
+    "code": "25920",
+    "level": 5,
+    "name": "Gia công cơ khí; xử lý và tráng phủ kim loại",
+    "parent": "2592"
+  },
+  {
+    "code": "25930",
+    "level": 5,
+    "name": "Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng",
+    "parent": "2593"
+  },
+  {
+    "code": "25991",
+    "level": 5,
+    "name": "Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn",
+    "parent": "2599"
+  },
+  {
+    "code": "25999",
+    "level": 5,
+    "name": "Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu",
+    "parent": "2599"
+  },
+  {
+    "code": "26100",
+    "level": 5,
+    "name": "Sản xuất linh kiện điện tử",
+    "parent": "2610"
+  },
+  {
+    "code": "26200",
+    "level": 5,
+    "name": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính",
+    "parent": "2620"
+  },
+  {
+    "code": "26300",
+    "level": 5,
+    "name": "Sản xuất thiết bị truyền thông",
+    "parent": "2630"
+  },
+  {
+    "code": "26400",
+    "level": 5,
+    "name": "Sản xuất sản phẩm điện tử dân dụng",
+    "parent": "2640"
+  },
+  {
+    "code": "26510",
+    "level": 5,
+    "name": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển",
+    "parent": "2651"
+  },
+  {
+    "code": "26520",
+    "level": 5,
+    "name": "Sản xuất đồng hồ",
+    "parent": "2652"
+  },
+  {
+    "code": "26600",
+    "level": 5,
+    "name": "Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp",
+    "parent": "2660"
+  },
+  {
+    "code": "26700",
+    "level": 5,
+    "name": "Sản xuất thiết bị và dụng cụ quang học",
+    "parent": "2670"
+  },
+  {
+    "code": "26800",
+    "level": 5,
+    "name": "Sản xuất băng, đĩa từ tính và quang học",
+    "parent": "2680"
+  },
+  {
+    "code": "27101",
+    "level": 5,
+    "name": "Sản xuất mô tơ, máy phát",
+    "parent": "2710"
+  },
+  {
+    "code": "27102",
+    "level": 5,
+    "name": "Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện",
+    "parent": "2710"
+  },
+  {
+    "code": "27200",
+    "level": 5,
+    "name": "Sản xuất pin và ắc quy",
+    "parent": "2720"
+  },
+  {
+    "code": "27310",
+    "level": 5,
+    "name": "Sản xuất dây cáp, sợi cáp quang học",
+    "parent": "2731"
+  },
+  {
+    "code": "27320",
+    "level": 5,
+    "name": "Sản xuất dây, cáp điện và điện tử khác",
+    "parent": "2732"
+  },
+  {
+    "code": "27330",
+    "level": 5,
+    "name": "Sản xuất thiết bị dây dẫn điện các loại",
+    "parent": "2733"
+  },
+  {
+    "code": "27400",
+    "level": 5,
+    "name": "Sản xuất thiết bị điện chiếu sáng",
+    "parent": "2740"
+  },
+  {
+    "code": "27500",
+    "level": 5,
+    "name": "Sản xuất đồ điện dân dụng",
+    "parent": "2750"
+  },
+  {
+    "code": "27900",
+    "level": 5,
+    "name": "Sản xuất thiết bị điện khác",
+    "parent": "2790"
+  },
+  {
+    "code": "28110",
+    "level": 5,
+    "name": "Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)",
+    "parent": "2811"
+  },
+  {
+    "code": "28120",
+    "level": 5,
+    "name": "Sản xuất thiết bị sử dụng năng lượng chiết lưu",
+    "parent": "2812"
+  },
+  {
+    "code": "28130",
+    "level": 5,
+    "name": "Sản xuất máy bơm, máy nén, vòi và van khác",
+    "parent": "2813"
+  },
+  {
+    "code": "28140",
+    "level": 5,
+    "name": "Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động",
+    "parent": "2814"
+  },
+  {
+    "code": "28150",
+    "level": 5,
+    "name": "Sản xuất lò nướng, lò luyện và lò nung",
+    "parent": "2815"
+  },
+  {
+    "code": "28160",
+    "level": 5,
+    "name": "Sản xuất các thiết bị nâng, hạ và bốc xếp",
+    "parent": "2816"
+  },
+  {
+    "code": "28170",
+    "level": 5,
+    "name": "Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính)",
+    "parent": "2817"
+  },
+  {
+    "code": "28180",
+    "level": 5,
+    "name": "Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén",
+    "parent": "2818"
+  },
+  {
+    "code": "28190",
+    "level": 5,
+    "name": "Sản xuất máy thông dụng khác",
+    "parent": "2819"
+  },
+  {
+    "code": "28210",
+    "level": 5,
+    "name": "Sản xuất máy nông nghiệp và lâm nghiệp",
+    "parent": "2821"
+  },
+  {
+    "code": "28220",
+    "level": 5,
+    "name": "Sản xuất máy công cụ và máy tạo hình kim loại",
+    "parent": "2822"
+  },
+  {
+    "code": "28230",
+    "level": 5,
+    "name": "Sản xuất máy luyện kim",
+    "parent": "2823"
+  },
+  {
+    "code": "28240",
+    "level": 5,
+    "name": "Sản xuất máy khai thác mỏ và xây dựng",
+    "parent": "2824"
+  },
+  {
+    "code": "28250",
+    "level": 5,
+    "name": "Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá",
+    "parent": "2825"
+  },
+  {
+    "code": "28260",
+    "level": 5,
+    "name": "Sản xuất máy cho ngành dệt, may và da",
+    "parent": "2826"
+  },
+  {
+    "code": "28291",
+    "level": 5,
+    "name": "Sản xuất máy sản xuất vật liệu xây dựng",
+    "parent": "2829"
+  },
+  {
+    "code": "28299",
+    "level": 5,
+    "name": "Sản xuất máy chuyên dụng khác chưa được phân vào đâu",
+    "parent": "2829"
+  },
+  {
+    "code": "29100",
+    "level": 5,
+    "name": "Sản xuất ô tô và xe có động cơ khác",
+    "parent": "2910"
+  },
+  {
+    "code": "29200",
+    "level": 5,
+    "name": "Sản xuất thân xe ô tô và xe có động cơ khác, rơ moóc và bán rơ moóc",
+    "parent": "2920"
+  },
+  {
+    "code": "29300",
+    "level": 5,
+    "name": "Sản xuất phụ tùng và bộ phận phụ trợ cho xe ô tô và xe có động cơ khác",
+    "parent": "2930"
+  },
+  {
+    "code": "30110",
+    "level": 5,
+    "name": "Đóng tàu và cấu kiện nổi",
+    "parent": "3011"
+  },
+  {
+    "code": "30120",
+    "level": 5,
+    "name": "Đóng thuyền, xuồng thể thao và giải trí",
+    "parent": "3012"
+  },
+  {
+    "code": "30200",
+    "level": 5,
+    "name": "Sản xuất đầu máy xe lửa, xe điện và toa xe",
+    "parent": "3020"
+  },
+  {
+    "code": "30300",
+    "level": 5,
+    "name": "Sản xuất máy bay, tàu vũ trụ và máy móc liên quan",
+    "parent": "3030"
+  },
+  {
+    "code": "30400",
+    "level": 5,
+    "name": "Sản xuất xe cơ giới chiến đấu dùng trong quân đội",
+    "parent": "3040"
+  },
+  {
+    "code": "30910",
+    "level": 5,
+    "name": "Sản xuất mô tô, xe máy",
+    "parent": "3091"
+  },
+  {
+    "code": "30920",
+    "level": 5,
+    "name": "Sản xuất xe đạp và xe cho người khuyết tật",
+    "parent": "3092"
+  },
+  {
+    "code": "30990",
+    "level": 5,
+    "name": "Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu",
+    "parent": "3099"
+  },
+  {
+    "code": "31001",
+    "level": 5,
+    "name": "Sản xuất giường, tủ, bàn, ghế bằng gỗ",
+    "parent": "3100"
+  },
+  {
+    "code": "31002",
+    "level": 5,
+    "name": "Sản xuất giường, tủ, bàn, ghế bằng kim loại",
+    "parent": "3100"
+  },
+  {
+    "code": "31009",
+    "level": 5,
+    "name": "Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác",
+    "parent": "3100"
+  },
+  {
+    "code": "32110",
+    "level": 5,
+    "name": "Sản xuất đồ kim hoàn và chi tiết liên quan",
+    "parent": "3211"
+  },
+  {
+    "code": "32120",
+    "level": 5,
+    "name": "Sản xuất đồ giả kim hoàn và chi tiết liên quan",
+    "parent": "3212"
+  },
+  {
+    "code": "32200",
+    "level": 5,
+    "name": "Sản xuất nhạc cụ",
+    "parent": "3220"
+  },
+  {
+    "code": "32300",
+    "level": 5,
+    "name": "Sản xuất dụng cụ thể dục, thể thao",
+    "parent": "3230"
+  },
+  {
+    "code": "32400",
+    "level": 5,
+    "name": "Sản xuất đồ chơi, trò chơi",
+    "parent": "3240"
+  },
+  {
+    "code": "32501",
+    "level": 5,
+    "name": "Sản xuất thiết bị, dụng cụ y tế, nha khoa",
+    "parent": "3250"
+  },
+  {
+    "code": "32502",
+    "level": 5,
+    "name": "Sản xuất dụng cụ chỉnh hình, phục hồi chức năng",
+    "parent": "3250"
+  },
+  {
+    "code": "32900",
+    "level": 5,
+    "name": "Sản xuất khác chưa được phân vào đâu",
+    "parent": "3290"
+  },
+  {
+    "code": "33110",
+    "level": 5,
+    "name": "Sửa chữa các sản phẩm kim loại đúc sẵn",
+    "parent": "3311"
+  },
+  {
+    "code": "33120",
+    "level": 5,
+    "name": "Sửa chữa máy móc, thiết bị",
+    "parent": "3312"
+  },
+  {
+    "code": "33130",
+    "level": 5,
+    "name": "Sửa chữa thiết bị điện tử và quang học",
+    "parent": "3313"
+  },
+  {
+    "code": "33140",
+    "level": 5,
+    "name": "Sửa chữa thiết bị điện",
+    "parent": "3314"
+  },
+  {
+    "code": "33150",
+    "level": 5,
+    "name": "Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)",
+    "parent": "3315"
+  },
+  {
+    "code": "33190",
+    "level": 5,
+    "name": "Sửa chữa thiết bị khác",
+    "parent": "3319"
+  },
+  {
+    "code": "33200",
+    "level": 5,
+    "name": "Lắp đặt máy móc và thiết bị công nghiệp",
+    "parent": "3320"
+  },
+  {
+    "code": "35111",
+    "level": 5,
+    "name": "Thủy điện",
+    "parent": "3511"
+  },
+  {
+    "code": "35112",
+    "level": 5,
+    "name": "Nhiệt điện than",
+    "parent": "3511"
+  },
+  {
+    "code": "35113",
+    "level": 5,
+    "name": "Nhiệt điện khí",
+    "parent": "3511"
+  },
+  {
+    "code": "35114",
+    "level": 5,
+    "name": "Điện hạt nhân",
+    "parent": "3511"
+  },
+  {
+    "code": "35115",
+    "level": 5,
+    "name": "Điện gió",
+    "parent": "3511"
+  },
+  {
+    "code": "35116",
+    "level": 5,
+    "name": "Điện mặt trời",
+    "parent": "3511"
+  },
+  {
+    "code": "35119",
+    "level": 5,
+    "name": "Điện khác",
+    "parent": "3511"
+  },
+  {
+    "code": "35121",
+    "level": 5,
+    "name": "Truyền tải điện",
+    "parent": "3512"
+  },
+  {
+    "code": "35122",
+    "level": 5,
+    "name": "Phân phối điện",
+    "parent": "3512"
+  },
+  {
+    "code": "35201",
+    "level": 5,
+    "name": "Sản xuất khí đốt",
+    "parent": "3520"
+  },
+  {
+    "code": "35202",
+    "level": 5,
+    "name": "Phân phối nhiên liệu khí bằng đường ống",
+    "parent": "3520"
+  },
+  {
+    "code": "35301",
+    "level": 5,
+    "name": "Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí",
+    "parent": "3530"
+  },
+  {
+    "code": "35302",
+    "level": 5,
+    "name": "Sản xuất nước đá",
+    "parent": "3530"
+  },
+  {
+    "code": "36000",
+    "level": 5,
+    "name": "Khai thác, xử lý và cung cấp nước",
+    "parent": "3600"
+  },
+  {
+    "code": "37001",
+    "level": 5,
+    "name": "Thoát nước",
+    "parent": "3700"
+  },
+  {
+    "code": "37002",
+    "level": 5,
+    "name": "Xử lý nước thải",
+    "parent": "3700"
+  },
+  {
+    "code": "38110",
+    "level": 5,
+    "name": "Thu gom rác thải không độc hại",
+    "parent": "3811"
+  },
+  {
+    "code": "38121",
+    "level": 5,
+    "name": "Thu gom rác thải y tế",
+    "parent": "3812"
+  },
+  {
+    "code": "38129",
+    "level": 5,
+    "name": "Thu gom rác thải độc hại khác",
+    "parent": "3812"
+  },
+  {
+    "code": "38210",
+    "level": 5,
+    "name": "Xử lý và tiêu hủy rác thải không độc hại",
+    "parent": "3821"
+  },
+  {
+    "code": "38221",
+    "level": 5,
+    "name": "Xử lý và tiêu hủy rác thải y tế",
+    "parent": "3822"
+  },
+  {
+    "code": "38229",
+    "level": 5,
+    "name": "Xử lý và tiêu hủy rác thải độc hại khác",
+    "parent": "3822"
+  },
+  {
+    "code": "38301",
+    "level": 5,
+    "name": "Tái chế phế liệu kim loại",
+    "parent": "3830"
+  },
+  {
+    "code": "38302",
+    "level": 5,
+    "name": "Tái chế phế liệu phi kim loại",
+    "parent": "3830"
+  },
+  {
+    "code": "39000",
+    "level": 5,
+    "name": "Xử lý ô nhiễm và hoạt động quản lý chất thải khác",
+    "parent": "3900"
+  },
+  {
+    "code": "41010",
+    "level": 5,
+    "name": "Xây dựng nhà để ở",
+    "parent": "4101"
+  },
+  {
+    "code": "41020",
+    "level": 5,
+    "name": "Xây dựng nhà không để ở",
+    "parent": "4102"
+  },
+  {
+    "code": "42110",
+    "level": 5,
+    "name": "Xây dựng công trình đường sắt",
+    "parent": "4211"
+  },
+  {
+    "code": "42120",
+    "level": 5,
+    "name": "Xây dựng công trình đường bộ",
+    "parent": "4212"
+  },
+  {
+    "code": "42210",
+    "level": 5,
+    "name": "Xây dựng công trình điện",
+    "parent": "4221"
+  },
+  {
+    "code": "42220",
+    "level": 5,
+    "name": "Xây dựng công trình cấp, thoát nước",
+    "parent": "4222"
+  },
+  {
+    "code": "42230",
+    "level": 5,
+    "name": "Xây dựng công trình viễn thông, thông tin liên lạc",
+    "parent": "4223"
+  },
+  {
+    "code": "42290",
+    "level": 5,
+    "name": "Xây dựng công trình công ích khác",
+    "parent": "4229"
+  },
+  {
+    "code": "42910",
+    "level": 5,
+    "name": "Xây dựng công trình thủy",
+    "parent": "4291"
+  },
+  {
+    "code": "42920",
+    "level": 5,
+    "name": "Xây dựng công trình khai khoáng",
+    "parent": "4292"
+  },
+  {
+    "code": "42930",
+    "level": 5,
+    "name": "Xây dựng công trình chế biến, chế tạo",
+    "parent": "4293"
+  },
+  {
+    "code": "42990",
+    "level": 5,
+    "name": "Xây dựng công trình kỹ thuật dân dụng khác",
+    "parent": "4299"
+  },
+  {
+    "code": "43110",
+    "level": 5,
+    "name": "Phá dỡ",
+    "parent": "4311"
+  },
+  {
+    "code": "43120",
+    "level": 5,
+    "name": "Chuẩn bị mặt bằng",
+    "parent": "4312"
+  },
+  {
+    "code": "43210",
+    "level": 5,
+    "name": "Lắp đặt hệ thống điện",
+    "parent": "4321"
+  },
+  {
+    "code": "43221",
+    "level": 5,
+    "name": "Lắp đặt hệ thống cấp, thoát nước",
+    "parent": "4322"
+  },
+  {
+    "code": "43222",
+    "level": 5,
+    "name": "Lắp đặt hệ thống sưởi và điều hoà không khí",
+    "parent": "4322"
+  },
+  {
+    "code": "43290",
+    "level": 5,
+    "name": "Lắp đặt hệ thống xây dựng khác",
+    "parent": "4329"
+  },
+  {
+    "code": "43300",
+    "level": 5,
+    "name": "Hoàn thiện công trình xây dựng",
+    "parent": "4330"
+  },
+  {
+    "code": "43900",
+    "level": 5,
+    "name": "Hoạt động xây dựng chuyên dụng khác",
+    "parent": "4390"
+  },
+  {
+    "code": "45111",
+    "level": 5,
+    "name": "Bán buôn ô tô con (loại 9 chỗ ngồi trở xuống)",
+    "parent": "4511"
+  },
+  {
+    "code": "45119",
+    "level": 5,
+    "name": "Bán buôn xe có động cơ khác",
+    "parent": "4511"
+  },
+  {
+    "code": "45120",
+    "level": 5,
+    "name": "Bán lẻ ô tô con (loại 9 chỗ ngồi trở xuống)",
+    "parent": "4512"
+  },
+  {
+    "code": "45131",
+    "level": 5,
+    "name": "Đại lý ô tô con (loại 9 chỗ ngồi trở xuống)",
+    "parent": "4513"
+  },
+  {
+    "code": "45139",
+    "level": 5,
+    "name": "Đại lý xe có động cơ khác",
+    "parent": "4513"
+  },
+  {
+    "code": "45200",
+    "level": 5,
+    "name": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác",
+    "parent": "4520"
+  },
+  {
+    "code": "45301",
+    "level": 5,
+    "name": "Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác",
+    "parent": "4530"
+  },
+  {
+    "code": "45302",
+    "level": 5,
+    "name": "Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 9 chỗ ngồi trở xuống)",
+    "parent": "4530"
+  },
+  {
+    "code": "45303",
+    "level": 5,
+    "name": "Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác",
+    "parent": "4530"
+  },
+  {
+    "code": "45411",
+    "level": 5,
+    "name": "Bán buôn mô tô, xe máy",
+    "parent": "4541"
+  },
+  {
+    "code": "45412",
+    "level": 5,
+    "name": "Bán lẻ mô tô, xe máy",
+    "parent": "4541"
+  },
+  {
+    "code": "45413",
+    "level": 5,
+    "name": "Đại lý mô tô, xe máy",
+    "parent": "4541"
+  },
+  {
+    "code": "45420",
+    "level": 5,
+    "name": "Bảo dưỡng và sửa chữa mô tô, xe máy",
+    "parent": "4542"
+  },
+  {
+    "code": "45431",
+    "level": 5,
+    "name": "Bán buôn phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",
+    "parent": "4543"
+  },
+  {
+    "code": "45432",
+    "level": 5,
+    "name": "Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",
+    "parent": "4543"
+  },
+  {
+    "code": "45433",
+    "level": 5,
+    "name": "Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",
+    "parent": "4543"
+  },
+  {
+    "code": "46101",
+    "level": 5,
+    "name": "Đại lý bán hàng hóa",
+    "parent": "4610"
+  },
+  {
+    "code": "46102",
+    "level": 5,
+    "name": "Môi giới mua bán hàng hóa",
+    "parent": "4610"
+  },
+  {
+    "code": "46103",
+    "level": 5,
+    "name": "Đấu giá hàng hóa",
+    "parent": "4610"
+  },
+  {
+    "code": "46201",
+    "level": 5,
+    "name": "Bán buôn thóc, ngô và các loại hạt ngũ cốc khác",
+    "parent": "4620"
+  },
+  {
+    "code": "46202",
+    "level": 5,
+    "name": "Bán buôn hoa và cây",
+    "parent": "4620"
+  },
+  {
+    "code": "46203",
+    "level": 5,
+    "name": "Bán buôn động vật sống",
+    "parent": "4620"
+  },
+  {
+    "code": "46204",
+    "level": 5,
+    "name": "Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thủy sản",
+    "parent": "4620"
+  },
+  {
+    "code": "46209",
+    "level": 5,
+    "name": "Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa)",
+    "parent": "4620"
+  },
+  {
+    "code": "46310",
+    "level": 5,
+    "name": "Bán buôn gạo, lúa mỳ, hạt ngũ cốc khác, bột mỳ",
+    "parent": "4631"
+  },
+  {
+    "code": "46321",
+    "level": 5,
+    "name": "Bán buôn thịt và các sản phẩm từ thịt",
+    "parent": "4632"
+  },
+  {
+    "code": "46322",
+    "level": 5,
+    "name": "Bán buôn thủy sản",
+    "parent": "4632"
+  },
+  {
+    "code": "46323",
+    "level": 5,
+    "name": "Bán buôn rau, quả",
+    "parent": "4632"
+  },
+  {
+    "code": "46324",
+    "level": 5,
+    "name": "Bán buôn cà phê",
+    "parent": "4632"
+  },
+  {
+    "code": "46325",
+    "level": 5,
+    "name": "Bán buôn chè",
+    "parent": "4632"
+  },
+  {
+    "code": "46326",
+    "level": 5,
+    "name": "Bán buôn đường, sữa và các sản phẩm sữa, bánh kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột",
+    "parent": "4632"
+  },
+  {
+    "code": "46329",
+    "level": 5,
+    "name": "Bán buôn thực phẩm khác",
+    "parent": "4632"
+  },
+  {
+    "code": "46331",
+    "level": 5,
+    "name": "Bán buôn đồ uống có cồn",
+    "parent": "4633"
+  },
+  {
+    "code": "46332",
+    "level": 5,
+    "name": "Bán buôn đồ uống không có cồn",
+    "parent": "4633"
+  },
+  {
+    "code": "46340",
+    "level": 5,
+    "name": "Bán buôn sản phẩm thuốc lá, thuốc lào",
+    "parent": "4634"
+  },
+  {
+    "code": "46411",
+    "level": 5,
+    "name": "Bán buôn vải",
+    "parent": "4641"
+  },
+  {
+    "code": "46412",
+    "level": 5,
+    "name": "Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác",
+    "parent": "4641"
+  },
+  {
+    "code": "46413",
+    "level": 5,
+    "name": "Bán buôn hàng may mặc",
+    "parent": "4641"
+  },
+  {
+    "code": "46414",
+    "level": 5,
+    "name": "Bán buôn giày dép",
+    "parent": "4641"
+  },
+  {
+    "code": "46491",
+    "level": 5,
+    "name": "Bán buôn vali, cặp, túi, ví, hàng da và giả da khác",
+    "parent": "4649"
+  },
+  {
+    "code": "46492",
+    "level": 5,
+    "name": "Bán buôn dược phẩm và dụng cụ y tế",
+    "parent": "4649"
+  },
+  {
+    "code": "46493",
+    "level": 5,
+    "name": "Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh",
+    "parent": "4649"
+  },
+  {
+    "code": "46494",
+    "level": 5,
+    "name": "Bán buôn hàng gốm, sứ, thủy tinh",
+    "parent": "4649"
+  },
+  {
+    "code": "46495",
+    "level": 5,
+    "name": "Bán buôn đồ điện gia dụng, đèn và bộ đèn điện",
+    "parent": "4649"
+  },
+  {
+    "code": "46496",
+    "level": 5,
+    "name": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự",
+    "parent": "4649"
+  },
+  {
+    "code": "46497",
+    "level": 5,
+    "name": "Bán buôn sách, báo, tạp chí, văn phòng phẩm",
+    "parent": "4649"
+  },
+  {
+    "code": "46498",
+    "level": 5,
+    "name": "Bán buôn dụng cụ thể dục, thể thao",
+    "parent": "4649"
+  },
+  {
+    "code": "46499",
+    "level": 5,
+    "name": "Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu",
+    "parent": "4649"
+  },
+  {
+    "code": "46510",
+    "level": 5,
+    "name": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "parent": "4651"
+  },
+  {
+    "code": "46520",
+    "level": 5,
+    "name": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "parent": "4652"
+  },
+  {
+    "code": "46530",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp",
+    "parent": "4653"
+  },
+  {
+    "code": "46591",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng",
+    "parent": "4659"
+  },
+  {
+    "code": "46592",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị khác dùng trong mạch điện)",
+    "parent": "4659"
+  },
+  {
+    "code": "46593",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày",
+    "parent": "4659"
+  },
+  {
+    "code": "46594",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi)",
+    "parent": "4659"
+  },
+  {
+    "code": "46595",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị y tế",
+    "parent": "4659"
+  },
+  {
+    "code": "46599",
+    "level": 5,
+    "name": "Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu",
+    "parent": "4659"
+  },
+  {
+    "code": "46611",
+    "level": 5,
+    "name": "Bán buôn than đá và nhiên liệu rắn khác",
+    "parent": "4661"
+  },
+  {
+    "code": "46612",
+    "level": 5,
+    "name": "Bán buôn dầu thô",
+    "parent": "4661"
+  },
+  {
+    "code": "46613",
+    "level": 5,
+    "name": "Bán buôn xăng dầu và các sản phẩm liên quan",
+    "parent": "4661"
+  },
+  {
+    "code": "46614",
+    "level": 5,
+    "name": "Bán buôn khí đốt và các sản phẩm liên quan",
+    "parent": "4661"
+  },
+  {
+    "code": "46621",
+    "level": 5,
+    "name": "Bán buôn quặng kim loại",
+    "parent": "4662"
+  },
+  {
+    "code": "46622",
+    "level": 5,
+    "name": "Bán buôn sắt, thép",
+    "parent": "4662"
+  },
+  {
+    "code": "46623",
+    "level": 5,
+    "name": "Bán buôn kim loại khác",
+    "parent": "4662"
+  },
+  {
+    "code": "46624",
+    "level": 5,
+    "name": "Bán buôn vàng, bạc và kim loại quý khác",
+    "parent": "4662"
+  },
+  {
+    "code": "46631",
+    "level": 5,
+    "name": "Bán buôn tre, nứa, gỗ cây và gỗ chế biến",
+    "parent": "4663"
+  },
+  {
+    "code": "46632",
+    "level": 5,
+    "name": "Bán buôn xi măng",
+    "parent": "4663"
+  },
+  {
+    "code": "46633",
+    "level": 5,
+    "name": "Bán buôn gạch xây, ngói, đá, cát, sỏi",
+    "parent": "4663"
+  },
+  {
+    "code": "46634",
+    "level": 5,
+    "name": "Bán buôn kính xây dựng",
+    "parent": "4663"
+  },
+  {
+    "code": "46635",
+    "level": 5,
+    "name": "Bán buôn sơn, vécni",
+    "parent": "4663"
+  },
+  {
+    "code": "46636",
+    "level": 5,
+    "name": "Bán buôn gạch ốp lát và thiết bị vệ sinh",
+    "parent": "4663"
+  },
+  {
+    "code": "46637",
+    "level": 5,
+    "name": "Bán buôn đồ ngũ kim",
+    "parent": "4663"
+  },
+  {
+    "code": "46639",
+    "level": 5,
+    "name": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "parent": "4663"
+  },
+  {
+    "code": "46691",
+    "level": 5,
+    "name": "Bán buôn phân bón, thuốc trừ sâu và hóa chất khác sử dụng trong nông nghiệp",
+    "parent": "4669"
+  },
+  {
+    "code": "46692",
+    "level": 5,
+    "name": "Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp)",
+    "parent": "4669"
+  },
+  {
+    "code": "46693",
+    "level": 5,
+    "name": "Bán buôn chất dẻo dạng nguyên sinh",
+    "parent": "4669"
+  },
+  {
+    "code": "46694",
+    "level": 5,
+    "name": "Bán buôn cao su",
+    "parent": "4669"
+  },
+  {
+    "code": "46695",
+    "level": 5,
+    "name": "Bán buôn tơ, xơ, sợi dệt",
+    "parent": "4669"
+  },
+  {
+    "code": "46696",
+    "level": 5,
+    "name": "Bán buôn phụ liệu may mặc và giày dép",
+    "parent": "4669"
+  },
+  {
+    "code": "46697",
+    "level": 5,
+    "name": "Bán buôn phế liệu, phế thải kim loại, phi kim loại",
+    "parent": "4669"
+  },
+  {
+    "code": "46699",
+    "level": 5,
+    "name": "Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu",
+    "parent": "4669"
+  },
+  {
+    "code": "46900",
+    "level": 5,
+    "name": "Bán buôn tổng hợp",
+    "parent": "4690"
+  },
+  {
+    "code": "47111",
+    "level": 5,
+    "name": "Bán lẻ trong siêu thị (Supermarket)",
+    "parent": "4711"
+  },
+  {
+    "code": "47112",
+    "level": 5,
+    "name": "Bán lẻ trong cửa hàng tiện lợi (Minimarket)",
+    "parent": "4711"
+  },
+  {
+    "code": "47119",
+    "level": 5,
+    "name": "Bán lẻ trong cửa hàng kinh doanh tổng hợp khác",
+    "parent": "4711"
+  },
+  {
+    "code": "47191",
+    "level": 5,
+    "name": "Bán lẻ trong siêu thị (Supermarket)",
+    "parent": "4719"
+  },
+  {
+    "code": "47192",
+    "level": 5,
+    "name": "Bán lẻ trong cửa hàng tiện lợi (Minimarket)",
+    "parent": "4719"
+  },
+  {
+    "code": "47199",
+    "level": 5,
+    "name": "Bán lẻ trong cửa hàng kinh doanh tổng hợp khác",
+    "parent": "4719"
+  },
+  {
+    "code": "47210",
+    "level": 5,
+    "name": "Bán lẻ lương thực trong các cửa hàng chuyên doanh",
+    "parent": "4721"
+  },
+  {
+    "code": "47221",
+    "level": 5,
+    "name": "Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh",
+    "parent": "4722"
+  },
+  {
+    "code": "47222",
+    "level": 5,
+    "name": "Bán lẻ thủy sản trong các cửa hàng chuyên doanh",
+    "parent": "4722"
+  },
+  {
+    "code": "47223",
+    "level": 5,
+    "name": "Bán lẻ rau, quả trong các cửa hàng chuyên doanh",
+    "parent": "4722"
+  },
+  {
+    "code": "47224",
+    "level": 5,
+    "name": "Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngữ cốc, bột, tinh bột trong các cửa hàng chuyên doanh",
+    "parent": "4722"
+  },
+  {
+    "code": "47229",
+    "level": 5,
+    "name": "Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh",
+    "parent": "4722"
+  },
+  {
+    "code": "47230",
+    "level": 5,
+    "name": "Bán lẻ đồ uống trong các cửa hàng chuyên doanh",
+    "parent": "4723"
+  },
+  {
+    "code": "47240",
+    "level": 5,
+    "name": "Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh",
+    "parent": "4724"
+  },
+  {
+    "code": "47300",
+    "level": 5,
+    "name": "Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh",
+    "parent": "4730"
+  },
+  {
+    "code": "47411",
+    "level": 5,
+    "name": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh",
+    "parent": "4741"
+  },
+  {
+    "code": "47412",
+    "level": 5,
+    "name": "Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh",
+    "parent": "4741"
+  },
+  {
+    "code": "47420",
+    "level": 5,
+    "name": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh",
+    "parent": "4742"
+  },
+  {
+    "code": "47511",
+    "level": 5,
+    "name": "Bán lẻ vải trong các cửa hàng chuyên doanh",
+    "parent": "4751"
+  },
+  {
+    "code": "47519",
+    "level": 5,
+    "name": "Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh",
+    "parent": "4751"
+  },
+  {
+    "code": "47521",
+    "level": 5,
+    "name": "Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh",
+    "parent": "4752"
+  },
+  {
+    "code": "47522",
+    "level": 5,
+    "name": "Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh",
+    "parent": "4752"
+  },
+  {
+    "code": "47523",
+    "level": 5,
+    "name": "Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh",
+    "parent": "4752"
+  },
+  {
+    "code": "47524",
+    "level": 5,
+    "name": "Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi, sắt thép và vật liệu xây dựng khác trong các cửa hàng chuyên doanh",
+    "parent": "4752"
+  },
+  {
+    "code": "47525",
+    "level": 5,
+    "name": "Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh",
+    "parent": "4752"
+  },
+  {
+    "code": "47529",
+    "level": 5,
+    "name": "Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh",
+    "parent": "4752"
+  },
+  {
+    "code": "47530",
+    "level": 5,
+    "name": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh",
+    "parent": "4753"
+  },
+  {
+    "code": "47591",
+    "level": 5,
+    "name": "Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh",
+    "parent": "4759"
+  },
+  {
+    "code": "47592",
+    "level": 5,
+    "name": "Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh",
+    "parent": "4759"
+  },
+  {
+    "code": "47593",
+    "level": 5,
+    "name": "Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh",
+    "parent": "4759"
+  },
+  {
+    "code": "47594",
+    "level": 5,
+    "name": "Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh",
+    "parent": "4759"
+  },
+  {
+    "code": "47599",
+    "level": 5,
+    "name": "Bán lẻ đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh",
+    "parent": "4759"
+  },
+  {
+    "code": "47610",
+    "level": 5,
+    "name": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh",
+    "parent": "4761"
+  },
+  {
+    "code": "47620",
+    "level": 5,
+    "name": "Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh",
+    "parent": "4762"
+  },
+  {
+    "code": "47630",
+    "level": 5,
+    "name": "Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh",
+    "parent": "4763"
+  },
+  {
+    "code": "47640",
+    "level": 5,
+    "name": "Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh",
+    "parent": "4764"
+  },
+  {
+    "code": "47711",
+    "level": 5,
+    "name": "Bán lẻ hàng may mặc trong các cửa hàng chuyên doanh",
+    "parent": "4771"
+  },
+  {
+    "code": "47712",
+    "level": 5,
+    "name": "Bán lẻ giày dép trong các cửa hàng chuyên doanh",
+    "parent": "4771"
+  },
+  {
+    "code": "47713",
+    "level": 5,
+    "name": "Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh",
+    "parent": "4771"
+  },
+  {
+    "code": "47721",
+    "level": 5,
+    "name": "Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh",
+    "parent": "4772"
+  },
+  {
+    "code": "47722",
+    "level": 5,
+    "name": "Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh",
+    "parent": "4772"
+  },
+  {
+    "code": "47723",
+    "level": 5,
+    "name": "Bán thuốc đông y, bán thuốc nam trong các cửa hàng chuyên doanh",
+    "parent": "4772"
+  },
+  {
+    "code": "47731",
+    "level": 5,
+    "name": "Bán lẻ hoa, cây cảnh, cá cảnh, chim cảnh, vật nuôi cảnh trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47732",
+    "level": 5,
+    "name": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47733",
+    "level": 5,
+    "name": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47734",
+    "level": 5,
+    "name": "Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ) trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47735",
+    "level": 5,
+    "name": "Bán lẻ dầu hoả, gas, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47736",
+    "level": 5,
+    "name": "Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47737",
+    "level": 5,
+    "name": "Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47738",
+    "level": 5,
+    "name": "Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47739",
+    "level": 5,
+    "name": "Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh",
+    "parent": "4773"
+  },
+  {
+    "code": "47741",
+    "level": 5,
+    "name": "Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh",
+    "parent": "4774"
+  },
+  {
+    "code": "47749",
+    "level": 5,
+    "name": "Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa hàng chuyên doanh",
+    "parent": "4774"
+  },
+  {
+    "code": "47811",
+    "level": 5,
+    "name": "Bán lẻ lương thực lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47812",
+    "level": 5,
+    "name": "Bán lẻ thực phẩm khô, thực phẩm công nghiệp, đường sữa bánh kẹo lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47813",
+    "level": 5,
+    "name": "Bán lẻ đồ uống lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47814",
+    "level": 5,
+    "name": "Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47815",
+    "level": 5,
+    "name": "Bán lẻ thịt gia súc, gia cầm tươi sống, đông lạnh lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47816",
+    "level": 5,
+    "name": "Bán lẻ thủy sản tươi sống, đông lạnh lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47817",
+    "level": 5,
+    "name": "Bán lẻ rau quả lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47818",
+    "level": 5,
+    "name": "Bán lẻ thực phẩm chín lưu động hoặc tại chợ",
+    "parent": "4781"
+  },
+  {
+    "code": "47819",
+    "level": 5,
+    "name": "Bán lẻ thực phẩm loại khác chưa được phân vào đâu",
+    "parent": "4781"
+  },
+  {
+    "code": "47821",
+    "level": 5,
+    "name": "Bán lẻ hàng dệt lưu động hoặc tại chợ",
+    "parent": "4782"
+  },
+  {
+    "code": "47822",
+    "level": 5,
+    "name": "Bán lẻ hàng may mặc lưu động hoặc tại chợ",
+    "parent": "4782"
+  },
+  {
+    "code": "47823",
+    "level": 5,
+    "name": "Bán lẻ giày dép lưu động hoặc tại chợ",
+    "parent": "4782"
+  },
+  {
+    "code": "47830",
+    "level": 5,
+    "name": "Bán lẻ thiết bị công nghệ thông tin liên lạc lưu động hoặc tại chợ",
+    "parent": "4783"
+  },
+  {
+    "code": "47841",
+    "level": 5,
+    "name": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng lưu động hoặc tại chợ",
+    "parent": "4784"
+  },
+  {
+    "code": "47842",
+    "level": 5,
+    "name": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn lưu động hoặc tại chợ",
+    "parent": "4784"
+  },
+  {
+    "code": "47843",
+    "level": 5,
+    "name": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu lưu động hoặc tại chợ",
+    "parent": "4784"
+  },
+  {
+    "code": "47850",
+    "level": 5,
+    "name": "Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ",
+    "parent": "4785"
+  },
+  {
+    "code": "47891",
+    "level": 5,
+    "name": "Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47892",
+    "level": 5,
+    "name": "Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47893",
+    "level": 5,
+    "name": "Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47894",
+    "level": 5,
+    "name": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47895",
+    "level": 5,
+    "name": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47896",
+    "level": 5,
+    "name": "Bán lẻ đồng hồ, kính mắt lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47897",
+    "level": 5,
+    "name": "Bán lẻ xe đạp và phụ tùng lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47898",
+    "level": 5,
+    "name": "Bán lẻ hàng hóa đã qua sử dụng lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47899",
+    "level": 5,
+    "name": "Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ",
+    "parent": "4789"
+  },
+  {
+    "code": "47910",
+    "level": 5,
+    "name": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet",
+    "parent": "4791"
+  },
+  {
+    "code": "47990",
+    "level": 5,
+    "name": "Bán lẻ hình thức khác chưa được phân vào đâu",
+    "parent": "4799"
+  },
+  {
+    "code": "49110",
+    "level": 5,
+    "name": "Vận tải hành khách đường sắt",
+    "parent": "4911"
+  },
+  {
+    "code": "49120",
+    "level": 5,
+    "name": "Vận tải hàng hóa đường sắt",
+    "parent": "4912"
+  },
+  {
+    "code": "49210",
+    "level": 5,
+    "name": "Vận tải hành khách bằng xe buýt trong nội thành",
+    "parent": "4921"
+  },
+  {
+    "code": "49220",
+    "level": 5,
+    "name": "Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh",
+    "parent": "4922"
+  },
+  {
+    "code": "49290",
+    "level": 5,
+    "name": "Vận tải hành khách bằng xe buýt loại khác",
+    "parent": "4929"
+  },
+  {
+    "code": "49311",
+    "level": 5,
+    "name": "Vận tải hành khách bằng hệ thống đường sắt ngầm hoặc đường sắt trên cao",
+    "parent": "4931"
+  },
+  {
+    "code": "49312",
+    "level": 5,
+    "name": "Vận tải hành khách bằng taxi",
+    "parent": "4931"
+  },
+  {
+    "code": "49313",
+    "level": 5,
+    "name": "Vận tải hành khách bàng mô tô, xe máy và xe có động cơ khác",
+    "parent": "4931"
+  },
+  {
+    "code": "49319",
+    "level": 5,
+    "name": "Vận tải hành khách đường bộ loại khác trong nội thành, ngoại thành (trừ xe buýt)",
+    "parent": "4931"
+  },
+  {
+    "code": "49321",
+    "level": 5,
+    "name": "Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh",
+    "parent": "4932"
+  },
+  {
+    "code": "49329",
+    "level": 5,
+    "name": "Vận tải hành khách đường bộ khác chưa được phân vào đâu",
+    "parent": "4932"
+  },
+  {
+    "code": "49331",
+    "level": 5,
+    "name": "Vận tải hàng hóa bằng ô tô chuyên dụng",
+    "parent": "4933"
+  },
+  {
+    "code": "49332",
+    "level": 5,
+    "name": "Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng)",
+    "parent": "4933"
+  },
+  {
+    "code": "49333",
+    "level": 5,
+    "name": "Vận tải hàng hóa bằng xe có động cơ loại khác",
+    "parent": "4933"
+  },
+  {
+    "code": "49334",
+    "level": 5,
+    "name": "Vận tải hàng hóa bằng xe thô sơ",
+    "parent": "4933"
+  },
+  {
+    "code": "49339",
+    "level": 5,
+    "name": "Vận tải hàng hóa bằng phương tiện đường bộ khác",
+    "parent": "4933"
+  },
+  {
+    "code": "49400",
+    "level": 5,
+    "name": "Vận tải đường ống",
+    "parent": "4940"
+  },
+  {
+    "code": "50111",
+    "level": 5,
+    "name": "Vận tải hành khách ven biển",
+    "parent": "5011"
+  },
+  {
+    "code": "50112",
+    "level": 5,
+    "name": "Vận tải hành khách viễn dương",
+    "parent": "5011"
+  },
+  {
+    "code": "50121",
+    "level": 5,
+    "name": "Vận tải hàng hóa ven biển",
+    "parent": "5012"
+  },
+  {
+    "code": "50122",
+    "level": 5,
+    "name": "Vận tải hàng hóa viễn dương",
+    "parent": "5012"
+  },
+  {
+    "code": "50211",
+    "level": 5,
+    "name": "Vận tải hành khách đường thủy nội địa bằng phương tiện cơ giới",
+    "parent": "5021"
+  },
+  {
+    "code": "50212",
+    "level": 5,
+    "name": "Vận tải hành khách đường thủy nội địa bằng phương tiện thô sơ",
+    "parent": "5021"
+  },
+  {
+    "code": "50221",
+    "level": 5,
+    "name": "Vận tải hàng hóa đường thủy nội địa bằng phương tiện cơ giới",
+    "parent": "5022"
+  },
+  {
+    "code": "50222",
+    "level": 5,
+    "name": "Vận tải hàng hóa đường thủy nội địa bằng phương tiện thô sơ",
+    "parent": "5022"
+  },
+  {
+    "code": "51101",
+    "level": 5,
+    "name": "Vận tải hành khách hàng không theo tuyến và lịch trình cố định",
+    "parent": "5110"
+  },
+  {
+    "code": "51109",
+    "level": 5,
+    "name": "Vận tải hành khách hàng không loại khác",
+    "parent": "5110"
+  },
+  {
+    "code": "51201",
+    "level": 5,
+    "name": "Vận tải hàng hóa hàng không theo tuyến và lịch trình cố định",
+    "parent": "5120"
+  },
+  {
+    "code": "51209",
+    "level": 5,
+    "name": "Vận tải hàng hóa hàng không loại khác",
+    "parent": "5120"
+  },
+  {
+    "code": "52101",
+    "level": 5,
+    "name": "Kho bãi và lưu giữ hàng hóa trong kho ngoại quan",
+    "parent": "5210"
+  },
+  {
+    "code": "52102",
+    "level": 5,
+    "name": "Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan)",
+    "parent": "5210"
+  },
+  {
+    "code": "52109",
+    "level": 5,
+    "name": "Kho bãi và lưu giữ hàng hóa trong kho loại khác",
+    "parent": "5210"
+  },
+  {
+    "code": "52210",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt",
+    "parent": "5221"
+  },
+  {
+    "code": "52221",
+    "level": 5,
+    "name": "Hoạt động điều hành cảng biển",
+    "parent": "5222"
+  },
+  {
+    "code": "52222",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải ven biển và viễn dương",
+    "parent": "5222"
+  },
+  {
+    "code": "52223",
+    "level": 5,
+    "name": "Hoạt động điều hành cảng đường thủy nội địa",
+    "parent": "5222"
+  },
+  {
+    "code": "52224",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải đường thủy nội địa",
+    "parent": "5222"
+  },
+  {
+    "code": "52231",
+    "level": 5,
+    "name": "Dịch vụ điều hành bay",
+    "parent": "5223"
+  },
+  {
+    "code": "52232",
+    "level": 5,
+    "name": "Dịch vụ điều hành hoạt động cảng hàng không",
+    "parent": "5223"
+  },
+  {
+    "code": "52239",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải hàng không",
+    "parent": "5223"
+  },
+  {
+    "code": "52241",
+    "level": 5,
+    "name": "Bốc xếp hàng hóa ga đường sắt",
+    "parent": "5224"
+  },
+  {
+    "code": "52242",
+    "level": 5,
+    "name": "Bốc xếp hàng hóa đường bộ",
+    "parent": "5224"
+  },
+  {
+    "code": "52243",
+    "level": 5,
+    "name": "Bốc xếp hàng hóa cảng biển",
+    "parent": "5224"
+  },
+  {
+    "code": "52244",
+    "level": 5,
+    "name": "Bốc xếp hàng hóa cảng sông",
+    "parent": "5224"
+  },
+  {
+    "code": "52245",
+    "level": 5,
+    "name": "Bốc xếp hàng hóa cảng hàng không",
+    "parent": "5224"
+  },
+  {
+    "code": "52249",
+    "level": 5,
+    "name": "Bốc xếp hàng hóa loại khác",
+    "parent": "5224"
+  },
+  {
+    "code": "52251",
+    "level": 5,
+    "name": "Hoạt động điều hành bến xe",
+    "parent": "5225"
+  },
+  {
+    "code": "52252",
+    "level": 5,
+    "name": "Hoạt động quản lý, điều hành đường cao tốc, cầu, hầm đường bộ",
+    "parent": "5225"
+  },
+  {
+    "code": "52253",
+    "level": 5,
+    "name": "Hoạt động quản lý bãi đỗ, trông giữ phương tiện đường bộ",
+    "parent": "5225"
+  },
+  {
+    "code": "52259",
+    "level": 5,
+    "name": "Hoạt động dịch vụ khác hỗ trợ liên quan đến vận tải đường bộ",
+    "parent": "5225"
+  },
+  {
+    "code": "52291",
+    "level": 5,
+    "name": "Dịch vụ đại lý, giao nhận vận chuyển",
+    "parent": "5229"
+  },
+  {
+    "code": "52292",
+    "level": 5,
+    "name": "Logistics",
+    "parent": "5229"
+  },
+  {
+    "code": "52299",
+    "level": 5,
+    "name": "Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu",
+    "parent": "5229"
+  },
+  {
+    "code": "53100",
+    "level": 5,
+    "name": "Bưu chính",
+    "parent": "5310"
+  },
+  {
+    "code": "53200",
+    "level": 5,
+    "name": "Chuyển phát",
+    "parent": "5320"
+  },
+  {
+    "code": "55101",
+    "level": 5,
+    "name": "Khách sạn",
+    "parent": "5510"
+  },
+  {
+    "code": "55102",
+    "level": 5,
+    "name": "Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày",
+    "parent": "5510"
+  },
+  {
+    "code": "55103",
+    "level": 5,
+    "name": "Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày",
+    "parent": "5510"
+  },
+  {
+    "code": "55104",
+    "level": 5,
+    "name": "Nhà trọ, phòng trọ và các cơ sở lưu trú ngắn ngày tương tự",
+    "parent": "5510"
+  },
+  {
+    "code": "55901",
+    "level": 5,
+    "name": "Ký túc xá học sinh, sinh viên",
+    "parent": "5590"
+  },
+  {
+    "code": "55902",
+    "level": 5,
+    "name": "Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm",
+    "parent": "5590"
+  },
+  {
+    "code": "55909",
+    "level": 5,
+    "name": "Cơ sở lưu trú khác chưa được phân vào đâu",
+    "parent": "5590"
+  },
+  {
+    "code": "56101",
+    "level": 5,
+    "name": "Nhà hàng, quán ăn, hàng ăn uống (trừ cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh)",
+    "parent": "5610"
+  },
+  {
+    "code": "56102",
+    "level": 5,
+    "name": "Cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh",
+    "parent": "5610"
+  },
+  {
+    "code": "56109",
+    "level": 5,
+    "name": "Dịch vụ ăn uống phục vụ lưu động khác",
+    "parent": "5610"
+  },
+  {
+    "code": "56210",
+    "level": 5,
+    "name": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng",
+    "parent": "5621"
+  },
+  {
+    "code": "56290",
+    "level": 5,
+    "name": "Dịch vụ ăn uống khác",
+    "parent": "5629"
+  },
+  {
+    "code": "56301",
+    "level": 5,
+    "name": "Quán rượu, bia, quầy bar",
+    "parent": "5630"
+  },
+  {
+    "code": "56302",
+    "level": 5,
+    "name": "Quán cà phê, giải khát",
+    "parent": "5630"
+  },
+  {
+    "code": "56309",
+    "level": 5,
+    "name": "Dịch vụ phục vụ đồ uống khác",
+    "parent": "5630"
+  },
+  {
+    "code": "58111",
+    "level": 5,
+    "name": "Xuất bản sách trực tuyến",
+    "parent": "5811"
+  },
+  {
+    "code": "58112",
+    "level": 5,
+    "name": "Xuất bản sách khác",
+    "parent": "5811"
+  },
+  {
+    "code": "58121",
+    "level": 5,
+    "name": "Xuất bản các danh mục chỉ dẫn và địa chỉ trực tuyến",
+    "parent": "5812"
+  },
+  {
+    "code": "58122",
+    "level": 5,
+    "name": "Xuất bản các danh mục chỉ dẫn và địa chỉ khác",
+    "parent": "5812"
+  },
+  {
+    "code": "58131",
+    "level": 5,
+    "name": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ trực tuyến",
+    "parent": "5813"
+  },
+  {
+    "code": "58132",
+    "level": 5,
+    "name": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ khác",
+    "parent": "5813"
+  },
+  {
+    "code": "58191",
+    "level": 5,
+    "name": "Hoạt động xuất bản trực tuyến khác",
+    "parent": "5819"
+  },
+  {
+    "code": "58192",
+    "level": 5,
+    "name": "Hoạt động xuất bản khác",
+    "parent": "5819"
+  },
+  {
+    "code": "58200",
+    "level": 5,
+    "name": "Xuất bản phần mềm",
+    "parent": "5820"
+  },
+  {
+    "code": "59111",
+    "level": 5,
+    "name": "Hoạt động sản xuất phim điện ảnh",
+    "parent": "5911"
+  },
+  {
+    "code": "59112",
+    "level": 5,
+    "name": "Hoạt động sản xuất phim video",
+    "parent": "5911"
+  },
+  {
+    "code": "59113",
+    "level": 5,
+    "name": "Hoạt động sản xuất chương trình truyền hình",
+    "parent": "5911"
+  },
+  {
+    "code": "59120",
+    "level": 5,
+    "name": "Hoạt động hậu kỳ",
+    "parent": "5912"
+  },
+  {
+    "code": "59130",
+    "level": 5,
+    "name": "Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình",
+    "parent": "5913"
+  },
+  {
+    "code": "59141",
+    "level": 5,
+    "name": "Hoạt động chiếu phim cố định",
+    "parent": "5914"
+  },
+  {
+    "code": "59142",
+    "level": 5,
+    "name": "Hoạt động chiếu phim lưu động",
+    "parent": "5914"
+  },
+  {
+    "code": "59200",
+    "level": 5,
+    "name": "Hoạt động ghi âm và xuất bản âm nhạc",
+    "parent": "5920"
+  },
+  {
+    "code": "60100",
+    "level": 5,
+    "name": "Hoạt động phát thanh",
+    "parent": "6010"
+  },
+  {
+    "code": "60210",
+    "level": 5,
+    "name": "Hoạt động truyền hình",
+    "parent": "6021"
+  },
+  {
+    "code": "60220",
+    "level": 5,
+    "name": "Chương trình cáp, vệ tinh và các chương trình thuê bao khác",
+    "parent": "6022"
+  },
+  {
+    "code": "61101",
+    "level": 5,
+    "name": "Hoạt động cung cấp trực tiếp dịch vụ viễn thông có dây",
+    "parent": "6110"
+  },
+  {
+    "code": "61102",
+    "level": 5,
+    "name": "Hoạt động cung cấp dịch vụ viễn thông có dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác",
+    "parent": "6110"
+  },
+  {
+    "code": "61201",
+    "level": 5,
+    "name": "Hoạt động cung cấp trực tiếp dịch vụ viễn thông không dây",
+    "parent": "6120"
+  },
+  {
+    "code": "61202",
+    "level": 5,
+    "name": "Hoạt động cung cấp dịch vụ viễn thông không dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác",
+    "parent": "6120"
+  },
+  {
+    "code": "61300",
+    "level": 5,
+    "name": "Hoạt động viễn thông vệ tinh",
+    "parent": "6130"
+  },
+  {
+    "code": "61901",
+    "level": 5,
+    "name": "Hoạt động của các điểm truy cập internet",
+    "parent": "6190"
+  },
+  {
+    "code": "61909",
+    "level": 5,
+    "name": "Hoạt động viễn thông khác chưa được phân vào đâu",
+    "parent": "6190"
+  },
+  {
+    "code": "62010",
+    "level": 5,
+    "name": "Lập trình máy vi tính",
+    "parent": "6201"
+  },
+  {
+    "code": "62020",
+    "level": 5,
+    "name": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính",
+    "parent": "6202"
+  },
+  {
+    "code": "62090",
+    "level": 5,
+    "name": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính",
+    "parent": "6209"
+  },
+  {
+    "code": "63110",
+    "level": 5,
+    "name": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan",
+    "parent": "6311"
+  },
+  {
+    "code": "63120",
+    "level": 5,
+    "name": "Cổng thông tin",
+    "parent": "6312"
+  },
+  {
+    "code": "63910",
+    "level": 5,
+    "name": "Hoạt động thông tấn",
+    "parent": "6391"
+  },
+  {
+    "code": "63990",
+    "level": 5,
+    "name": "Dịch vụ thông tin khác chưa được phân vào đâu",
+    "parent": "6399"
+  },
+  {
+    "code": "64110",
+    "level": 5,
+    "name": "Hoạt động ngân hàng trung ương",
+    "parent": "6411"
+  },
+  {
+    "code": "64190",
+    "level": 5,
+    "name": "Hoạt động trung gian tiền tệ khác",
+    "parent": "6419"
+  },
+  {
+    "code": "64200",
+    "level": 5,
+    "name": "Hoạt động công ty nắm giữ tài sản",
+    "parent": "6420"
+  },
+  {
+    "code": "64300",
+    "level": 5,
+    "name": "Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác",
+    "parent": "6430"
+  },
+  {
+    "code": "64910",
+    "level": 5,
+    "name": "Hoạt động cho thuê tài chính",
+    "parent": "6491"
+  },
+  {
+    "code": "64920",
+    "level": 5,
+    "name": "Hoạt động cấp tín dụng khác",
+    "parent": "6492"
+  },
+  {
+    "code": "64990",
+    "level": 5,
+    "name": "Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội)",
+    "parent": "6499"
+  },
+  {
+    "code": "65110",
+    "level": 5,
+    "name": "Bảo hiểm nhân thọ",
+    "parent": "6511"
+  },
+  {
+    "code": "65120",
+    "level": 5,
+    "name": "Bảo hiểm phi nhân thọ",
+    "parent": "6512"
+  },
+  {
+    "code": "65131",
+    "level": 5,
+    "name": "Bảo hiểm y tế",
+    "parent": "6513"
+  },
+  {
+    "code": "65139",
+    "level": 5,
+    "name": "Bảo hiểm sức khỏe khác",
+    "parent": "6513"
+  },
+  {
+    "code": "65200",
+    "level": 5,
+    "name": "Tái bảo hiểm",
+    "parent": "6520"
+  },
+  {
+    "code": "65300",
+    "level": 5,
+    "name": "Bảo hiểm xã hội",
+    "parent": "6530"
+  },
+  {
+    "code": "66110",
+    "level": 5,
+    "name": "Quản lý thị trường tài chính",
+    "parent": "6611"
+  },
+  {
+    "code": "66120",
+    "level": 5,
+    "name": "Môi giới hợp đồng hàng hóa và chứng khoán",
+    "parent": "6612"
+  },
+  {
+    "code": "66190",
+    "level": 5,
+    "name": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu",
+    "parent": "6619"
+  },
+  {
+    "code": "66210",
+    "level": 5,
+    "name": "Đánh giá rủi ro và thiệt hại",
+    "parent": "6621"
+  },
+  {
+    "code": "66220",
+    "level": 5,
+    "name": "Hoạt động của đại lý và môi giới bảo hiểm",
+    "parent": "6622"
+  },
+  {
+    "code": "66290",
+    "level": 5,
+    "name": "Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội",
+    "parent": "6629"
+  },
+  {
+    "code": "66300",
+    "level": 5,
+    "name": "Hoạt động quản lý quỹ",
+    "parent": "6630"
+  },
+  {
+    "code": "68101",
+    "level": 5,
+    "name": "Mua, bán nhà ở và quyền sử dụng đất ở",
+    "parent": "6810"
+  },
+  {
+    "code": "68102",
+    "level": 5,
+    "name": "Mua, bán nhà và quyền sử dụng đất không để ở",
+    "parent": "6810"
+  },
+  {
+    "code": "68103",
+    "level": 5,
+    "name": "Cho thuê, điều hành, quản lý nhà và đất ở",
+    "parent": "6810"
+  },
+  {
+    "code": "68104",
+    "level": 5,
+    "name": "Cho thuê, điều hành, quản lý nhà và đất không để ở",
+    "parent": "6810"
+  },
+  {
+    "code": "68109",
+    "level": 5,
+    "name": "Kinh doanh bất động sản khác",
+    "parent": "6810"
+  },
+  {
+    "code": "68201",
+    "level": 5,
+    "name": "Tư vấn, môi giới bất động sản, quyền sử dụng đất",
+    "parent": "6820"
+  },
+  {
+    "code": "68202",
+    "level": 5,
+    "name": "Đấu giá bất động sản, quyền sử dụng đất",
+    "parent": "6820"
+  },
+  {
+    "code": "69101",
+    "level": 5,
+    "name": "Hoạt động đại diện, tư vấn pháp luật",
+    "parent": "6910"
+  },
+  {
+    "code": "69102",
+    "level": 5,
+    "name": "Hướng dẫn chung và tư vấn, chuẩn bị các tài liệu pháp lý",
+    "parent": "6910"
+  },
+  {
+    "code": "69109",
+    "level": 5,
+    "name": "Hoạt động pháp luật khác",
+    "parent": "6910"
+  },
+  {
+    "code": "69200",
+    "level": 5,
+    "name": "Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế",
+    "parent": "6920"
+  },
+  {
+    "code": "70100",
+    "level": 5,
+    "name": "Hoạt động của trụ sở văn phòng",
+    "parent": "7010"
+  },
+  {
+    "code": "70200",
+    "level": 5,
+    "name": "Hoạt động tư vấn quản lý",
+    "parent": "7020"
+  },
+  {
+    "code": "71101",
+    "level": 5,
+    "name": "Hoạt động kiến trúc",
+    "parent": "7110"
+  },
+  {
+    "code": "71102",
+    "level": 5,
+    "name": "Hoạt động đo đạc và bản đồ",
+    "parent": "7110"
+  },
+  {
+    "code": "71103",
+    "level": 5,
+    "name": "Hoạt động thăm dò địa chất, nguồn nước",
+    "parent": "7110"
+  },
+  {
+    "code": "71109",
+    "level": 5,
+    "name": "Hoạt động tư vấn kỹ thuật có liên quan khác",
+    "parent": "7110"
+  },
+  {
+    "code": "71200",
+    "level": 5,
+    "name": "Kiểm tra và phân tích kỹ thuật",
+    "parent": "7120"
+  },
+  {
+    "code": "72110",
+    "level": 5,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên",
+    "parent": "7211"
+  },
+  {
+    "code": "72120",
+    "level": 5,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ",
+    "parent": "7212"
+  },
+  {
+    "code": "72130",
+    "level": 5,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược",
+    "parent": "7213"
+  },
+  {
+    "code": "72140",
+    "level": 5,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp",
+    "parent": "7214"
+  },
+  {
+    "code": "72210",
+    "level": 5,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội",
+    "parent": "7221"
+  },
+  {
+    "code": "72220",
+    "level": 5,
+    "name": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nhân văn",
+    "parent": "7222"
+  },
+  {
+    "code": "73100",
+    "level": 5,
+    "name": "Quảng cáo",
+    "parent": "7310"
+  },
+  {
+    "code": "73200",
+    "level": 5,
+    "name": "Nghiên cứu thị trường và thăm dò dư luận",
+    "parent": "7320"
+  },
+  {
+    "code": "74100",
+    "level": 5,
+    "name": "Hoạt động thiết kế chuyên dụng",
+    "parent": "7410"
+  },
+  {
+    "code": "74200",
+    "level": 5,
+    "name": "Hoạt động nhiếp ảnh",
+    "parent": "7420"
+  },
+  {
+    "code": "74901",
+    "level": 5,
+    "name": "Hoạt động khí tượng thủy văn",
+    "parent": "7490"
+  },
+  {
+    "code": "74909",
+    "level": 5,
+    "name": "Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu",
+    "parent": "7490"
+  },
+  {
+    "code": "75000",
+    "level": 5,
+    "name": "Hoạt động thú y",
+    "parent": "7500"
+  },
+  {
+    "code": "77101",
+    "level": 5,
+    "name": "Cho thuê ôtô",
+    "parent": "7710"
+  },
+  {
+    "code": "77109",
+    "level": 5,
+    "name": "Cho thuê xe có động cơ khác",
+    "parent": "7710"
+  },
+  {
+    "code": "77210",
+    "level": 5,
+    "name": "Cho thuê thiết bị thể thao, vui chơi giải trí",
+    "parent": "7721"
+  },
+  {
+    "code": "77220",
+    "level": 5,
+    "name": "Cho thuê băng, đĩa video",
+    "parent": "7722"
+  },
+  {
+    "code": "77290",
+    "level": 5,
+    "name": "Cho thuê đồ dùng cá nhân và gia đình khác",
+    "parent": "7729"
+  },
+  {
+    "code": "77301",
+    "level": 5,
+    "name": "Cho thuê máy móc, thiết bị nông, lâm nghiệp không kèm người điều khiển",
+    "parent": "7730"
+  },
+  {
+    "code": "77302",
+    "level": 5,
+    "name": "Cho thuê máy móc, thiết bị xây dựng không kèm người điều khiển",
+    "parent": "7730"
+  },
+  {
+    "code": "77303",
+    "level": 5,
+    "name": "Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính) không kèm người điều khiển",
+    "parent": "7730"
+  },
+  {
+    "code": "77304",
+    "level": 5,
+    "name": "Cho thuê máy bay, phương tiện bay không kèm người điều khiển",
+    "parent": "7730"
+  },
+  {
+    "code": "77305",
+    "level": 5,
+    "name": "Cho thuê tàu, thuyền và kết cấu nổi không kèm người điều khiển",
+    "parent": "7730"
+  },
+  {
+    "code": "77309",
+    "level": 5,
+    "name": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác, không kèm người điều khiển chưa được phân vào đâu",
+    "parent": "7730"
+  },
+  {
+    "code": "77400",
+    "level": 5,
+    "name": "Cho thuê tài sản vô hình phi tài chính",
+    "parent": "7740"
+  },
+  {
+    "code": "78100",
+    "level": 5,
+    "name": "Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm",
+    "parent": "7810"
+  },
+  {
+    "code": "78200",
+    "level": 5,
+    "name": "Cung ứng lao động tạm thời",
+    "parent": "7820"
+  },
+  {
+    "code": "78301",
+    "level": 5,
+    "name": "Cung ứng và quản lý nguồn lao động trong nước",
+    "parent": "7830"
+  },
+  {
+    "code": "78302",
+    "level": 5,
+    "name": "Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài",
+    "parent": "7830"
+  },
+  {
+    "code": "79110",
+    "level": 5,
+    "name": "Đại lý du lịch",
+    "parent": "7911"
+  },
+  {
+    "code": "79120",
+    "level": 5,
+    "name": "Điều hành tua du lịch",
+    "parent": "7912"
+  },
+  {
+    "code": "79900",
+    "level": 5,
+    "name": "Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch",
+    "parent": "7990"
+  },
+  {
+    "code": "80100",
+    "level": 5,
+    "name": "Hoạt động bảo vệ tư nhân",
+    "parent": "8010"
+  },
+  {
+    "code": "80200",
+    "level": 5,
+    "name": "Dịch vụ hệ thống bảo đảm an toàn",
+    "parent": "8020"
+  },
+  {
+    "code": "80300",
+    "level": 5,
+    "name": "Dịch vụ điều tra",
+    "parent": "8030"
+  },
+  {
+    "code": "81100",
+    "level": 5,
+    "name": "Dịch vụ hỗ trợ tổng hợp",
+    "parent": "8110"
+  },
+  {
+    "code": "81210",
+    "level": 5,
+    "name": "Vệ sinh chung nhà cửa",
+    "parent": "8121"
+  },
+  {
+    "code": "81290",
+    "level": 5,
+    "name": "Vệ sinh công nghiệp và các công trình chuyên biệt",
+    "parent": "8129"
+  },
+  {
+    "code": "81300",
+    "level": 5,
+    "name": "Dịch vụ chăm sóc và duy trì cảnh quan",
+    "parent": "8130"
+  },
+  {
+    "code": "82110",
+    "level": 5,
+    "name": "Dịch vụ hành chính văn phòng tổng hợp",
+    "parent": "8211"
+  },
+  {
+    "code": "82191",
+    "level": 5,
+    "name": "Photo, chuẩn bị tài liệu",
+    "parent": "8219"
+  },
+  {
+    "code": "82199",
+    "level": 5,
+    "name": "Hoạt động hỗ trợ văn phòng đặc biệt khác",
+    "parent": "8219"
+  },
+  {
+    "code": "82200",
+    "level": 5,
+    "name": "Hoạt động dịch vụ liên quan đến các cuộc gọi",
+    "parent": "8220"
+  },
+  {
+    "code": "82300",
+    "level": 5,
+    "name": "Tổ chức giới thiệu và xúc tiến thương mại",
+    "parent": "8230"
+  },
+  {
+    "code": "82910",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng",
+    "parent": "8291"
+  },
+  {
+    "code": "82920",
+    "level": 5,
+    "name": "Dịch vụ đóng gói",
+    "parent": "8292"
+  },
+  {
+    "code": "82990",
+    "level": 5,
+    "name": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu",
+    "parent": "8299"
+  },
+  {
+    "code": "84111",
+    "level": 5,
+    "name": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội",
+    "parent": "8411"
+  },
+  {
+    "code": "84112",
+    "level": 5,
+    "name": "Hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp",
+    "parent": "8411"
+  },
+  {
+    "code": "84120",
+    "level": 5,
+    "name": "Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hóa và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc)",
+    "parent": "8412"
+  },
+  {
+    "code": "84130",
+    "level": 5,
+    "name": "Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành",
+    "parent": "8413"
+  },
+  {
+    "code": "84210",
+    "level": 5,
+    "name": "Hoạt động đối ngoại",
+    "parent": "8421"
+  },
+  {
+    "code": "84220",
+    "level": 5,
+    "name": "Hoạt động quốc phòng",
+    "parent": "8422"
+  },
+  {
+    "code": "84230",
+    "level": 5,
+    "name": "Hoạt động an ninh, trật tự an toàn xã hội",
+    "parent": "8423"
+  },
+  {
+    "code": "84300",
+    "level": 5,
+    "name": "Hoạt động bảo đảm xã hội bắt buộc",
+    "parent": "8430"
+  },
+  {
+    "code": "85110",
+    "level": 5,
+    "name": "Giáo dục nhà trẻ",
+    "parent": "8511"
+  },
+  {
+    "code": "85120",
+    "level": 5,
+    "name": "Giáo dục mẫu giáo",
+    "parent": "8512"
+  },
+  {
+    "code": "85210",
+    "level": 5,
+    "name": "Giáo dục tiểu học",
+    "parent": "8521"
+  },
+  {
+    "code": "85220",
+    "level": 5,
+    "name": "Giáo dục trung học cơ sở",
+    "parent": "8522"
+  },
+  {
+    "code": "85230",
+    "level": 5,
+    "name": "Giáo dục trung học phổ thông",
+    "parent": "8523"
+  },
+  {
+    "code": "85310",
+    "level": 5,
+    "name": "Đào tạo sơ cấp",
+    "parent": "8531"
+  },
+  {
+    "code": "85320",
+    "level": 5,
+    "name": "Đào tạo trung cấp",
+    "parent": "8532"
+  },
+  {
+    "code": "85330",
+    "level": 5,
+    "name": "Đào tạo cao đẳng",
+    "parent": "8533"
+  },
+  {
+    "code": "85410",
+    "level": 5,
+    "name": "Đào tạo đại học",
+    "parent": "8541"
+  },
+  {
+    "code": "85420",
+    "level": 5,
+    "name": "Đào tạo thạc sỹ",
+    "parent": "8542"
+  },
+  {
+    "code": "85430",
+    "level": 5,
+    "name": "Đào tạo tiến sỹ",
+    "parent": "8543"
+  },
+  {
+    "code": "85510",
+    "level": 5,
+    "name": "Giáo dục thể thao và giải trí",
+    "parent": "8551"
+  },
+  {
+    "code": "85520",
+    "level": 5,
+    "name": "Giáo dục văn hóa nghệ thuật",
+    "parent": "8552"
+  },
+  {
+    "code": "85590",
+    "level": 5,
+    "name": "Giáo dục khác chưa được phân vào đâu",
+    "parent": "8559"
+  },
+  {
+    "code": "85600",
+    "level": 5,
+    "name": "Dịch vụ hỗ trợ giáo dục",
+    "parent": "8560"
+  },
+  {
+    "code": "86101",
+    "level": 5,
+    "name": "Hoạt động của các bệnh viện",
+    "parent": "8610"
+  },
+  {
+    "code": "86102",
+    "level": 5,
+    "name": "Hoạt động của các trạm y tế và trạm y tế bộ/ngành",
+    "parent": "8610"
+  },
+  {
+    "code": "86201",
+    "level": 5,
+    "name": "Hoạt động của các phòng khám đa khoa, chuyên khoa",
+    "parent": "8620"
+  },
+  {
+    "code": "86202",
+    "level": 5,
+    "name": "Hoạt động của các phòng khám nha khoa",
+    "parent": "8620"
+  },
+  {
+    "code": "86910",
+    "level": 5,
+    "name": "Hoạt động y tế dự phòng",
+    "parent": "8691"
+  },
+  {
+    "code": "86920",
+    "level": 5,
+    "name": "Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng",
+    "parent": "8692"
+  },
+  {
+    "code": "86990",
+    "level": 5,
+    "name": "Hoạt động y tế khác chưa được phân vào đâu",
+    "parent": "8699"
+  },
+  {
+    "code": "87101",
+    "level": 5,
+    "name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh",
+    "parent": "8710"
+  },
+  {
+    "code": "87109",
+    "level": 5,
+    "name": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác",
+    "parent": "8710"
+  },
+  {
+    "code": "87201",
+    "level": 5,
+    "name": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần",
+    "parent": "8720"
+  },
+  {
+    "code": "87202",
+    "level": 5,
+    "name": "Hoạt động chăm sóc sức khoẻ, cai nghiện phục hồi người nghiện",
+    "parent": "8720"
+  },
+  {
+    "code": "87301",
+    "level": 5,
+    "name": "Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh)",
+    "parent": "8730"
+  },
+  {
+    "code": "87302",
+    "level": 5,
+    "name": "Hoạt động chăm sóc sức khoẻ người già",
+    "parent": "8730"
+  },
+  {
+    "code": "87303",
+    "level": 5,
+    "name": "Hoạt động chăm sóc sức khoẻ người khuyết tật",
+    "parent": "8730"
+  },
+  {
+    "code": "87901",
+    "level": 5,
+    "name": "Hoạt động chữa bệnh, phục hồi nhân phẩm cho đối tượng mại dâm",
+    "parent": "8790"
+  },
+  {
+    "code": "87909",
+    "level": 5,
+    "name": "Hoạt động chăm sóc tập trung khác chưa được phân vào đâu",
+    "parent": "8790"
+  },
+  {
+    "code": "88101",
+    "level": 5,
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh)",
+    "parent": "8810"
+  },
+  {
+    "code": "88102",
+    "level": 5,
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh",
+    "parent": "8810"
+  },
+  {
+    "code": "88103",
+    "level": 5,
+    "name": "Hoạt động trợ giúp xã hội không tập trung đối với người già và người khuyết tật",
+    "parent": "8810"
+  },
+  {
+    "code": "88900",
+    "level": 5,
+    "name": "Hoạt động trợ giúp xã hội không tập trung khác",
+    "parent": "8890"
+  },
+  {
+    "code": "90000",
+    "level": 5,
+    "name": "Hoạt động sáng tác, nghệ thuật và giải trí",
+    "parent": "9000"
+  },
+  {
+    "code": "91010",
+    "level": 5,
+    "name": "Hoạt động thư viện và lưu trữ",
+    "parent": "9101"
+  },
+  {
+    "code": "91020",
+    "level": 5,
+    "name": "Hoạt động bảo tồn, bảo tàng",
+    "parent": "9102"
+  },
+  {
+    "code": "91030",
+    "level": 5,
+    "name": "Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên",
+    "parent": "9103"
+  },
+  {
+    "code": "92001",
+    "level": 5,
+    "name": "Hoạt động xổ số",
+    "parent": "9200"
+  },
+  {
+    "code": "92002",
+    "level": 5,
+    "name": "Hoạt động cá cược và đánh bạc",
+    "parent": "9200"
+  },
+  {
+    "code": "93110",
+    "level": 5,
+    "name": "Hoạt động của các cơ sở thể thao",
+    "parent": "9311"
+  },
+  {
+    "code": "93120",
+    "level": 5,
+    "name": "Hoạt động của các câu lạc bộ thể thao",
+    "parent": "9312"
+  },
+  {
+    "code": "93190",
+    "level": 5,
+    "name": "Hoạt động thể thao khác",
+    "parent": "9319"
+  },
+  {
+    "code": "93210",
+    "level": 5,
+    "name": "Hoạt động của các công viên vui chơi và công viên theo chủ đề",
+    "parent": "9321"
+  },
+  {
+    "code": "93290",
+    "level": 5,
+    "name": "Hoạt động vui chơi giải trí khác chưa được phân vào đâu",
+    "parent": "9329"
+  },
+  {
+    "code": "94110",
+    "level": 5,
+    "name": "Hoạt động của các hiệp hội kinh doanh và nghiệp chủ",
+    "parent": "9411"
+  },
+  {
+    "code": "94120",
+    "level": 5,
+    "name": "Hoạt động của các hội nghề nghiệp",
+    "parent": "9412"
+  },
+  {
+    "code": "94200",
+    "level": 5,
+    "name": "Hoạt động của công đoàn",
+    "parent": "9420"
+  },
+  {
+    "code": "94910",
+    "level": 5,
+    "name": "Hoạt động của các tổ chức tôn giáo",
+    "parent": "9491"
+  },
+  {
+    "code": "94990",
+    "level": 5,
+    "name": "Hoạt động của các tổ chức khác chưa được phân vào đâu",
+    "parent": "9499"
+  },
+  {
+    "code": "95110",
+    "level": 5,
+    "name": "Sửa chữa máy vi tính và thiết bị ngoại vi",
+    "parent": "9511"
+  },
+  {
+    "code": "95120",
+    "level": 5,
+    "name": "Sửa chữa thiết bị liên lạc",
+    "parent": "9512"
+  },
+  {
+    "code": "95210",
+    "level": 5,
+    "name": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng",
+    "parent": "9521"
+  },
+  {
+    "code": "95220",
+    "level": 5,
+    "name": "Sửa chữa thiết bị, đồ dùng gia đình",
+    "parent": "9522"
+  },
+  {
+    "code": "95230",
+    "level": 5,
+    "name": "Sửa chữa giày, dép, hàng da và giả da",
+    "parent": "9523"
+  },
+  {
+    "code": "95240",
+    "level": 5,
+    "name": "Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tư",
+    "parent": "9524"
+  },
+  {
+    "code": "95290",
+    "level": 5,
+    "name": "Sửa chữa xe đạp, đồng hồ, đồ dùng cá nhân và gia đình khác chưa được phân vào đâu",
+    "parent": "9529"
+  },
+  {
+    "code": "96100",
+    "level": 5,
+    "name": "Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)",
+    "parent": "9610"
+  },
+  {
+    "code": "96200",
+    "level": 5,
+    "name": "Giặt là, làm sạch các sản phẩm dệt và lông thú",
+    "parent": "9620"
+  },
+  {
+    "code": "96310",
+    "level": 5,
+    "name": "Cắt tóc, làm đầu, gội đầu",
+    "parent": "9631"
+  },
+  {
+    "code": "96320",
+    "level": 5,
+    "name": "Hoạt động dịch vụ phục vụ tang lễ",
+    "parent": "9632"
+  },
+  {
+    "code": "96330",
+    "level": 5,
+    "name": "Hoạt động dịch vụ phục vụ hôn lễ",
+    "parent": "9633"
+  },
+  {
+    "code": "96390",
+    "level": 5,
+    "name": "Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu",
+    "parent": "9639"
+  },
+  {
+    "code": "97000",
+    "level": 5,
+    "name": "Hoạt động làm thuê công việc gia đình trong các hộ gia đình",
+    "parent": "9700"
+  },
+  {
+    "code": "98100",
+    "level": 5,
+    "name": "Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình",
+    "parent": "9810"
+  },
+  {
+    "code": "98200",
+    "level": 5,
+    "name": "Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình",
+    "parent": "9820"
+  },
+  {
+    "code": "99000",
+    "level": 5,
+    "name": "Hoạt động của các tổ chức và cơ quan quốc tế",
+    "parent": "9900"
+  }
+]
